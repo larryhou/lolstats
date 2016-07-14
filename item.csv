@@ -1,0 +1,172 @@
+name,gold,FlatArmorMod,FlatCritChanceMod,FlatHPPoolMod,FlatHPRegenMod,FlatMPPoolMod,FlatMPRegenMod,FlatMagicDamageMod,FlatMovementSpeedMod,FlatPhysicalDamageMod,FlatSpellBlockMod,PercentAttackSpeedMod,PercentLifeStealMod,PercentMovementSpeedMod
+Boots of Speed,300,0,0,0,0,0,0,0,25,0,0,0,0,0
+Giant's Belt,1000,0,0,380,0,0,0,0,0,0,0,0,0,0
+Cloak of Agility,800,0,0.2,0,0,0,0,0,0,0,0,0,0,0
+Blasting Wand,850,0,0,0,0,0,0,40,0,0,0,0,0,0
+Sapphire Crystal,350,0,0,0,0,250,0,0,0,0,0,0,0,0
+Ruby Crystal,400,0,0,150,0,0,0,0,0,0,0,0,0,0
+Cloth Armor,300,15,0,0,0,0,0,0,0,0,0,0,0,0
+Chain Vest,800,40,0,0,0,0,0,0,0,0,0,0,0,0
+Null-Magic Mantle,450,0,0,0,0,0,0,0,0,0,25,0,0,0
+Long Sword,350,0,0,0,0,0,0,0,0,10,0,0,0,0
+Pickaxe,875,0,0,0,0,0,0,0,0,25,0,0,0,0
+B. F. Sword,1300,0,0,0,0,0,0,0,0,40,0,0,0,0
+Dagger,300,0,0,0,0,0,0,0,0,0,0,0.12,0,0
+Recurve Bow,1000,0,0,0,0,0,0,0,0,0,0,0.25,0,0
+Brawler's Gloves,400,0,0.1,0,0,0,0,0,0,0,0,0,0,0
+Amplifying Tome,435,0,0,0,0,0,0,20,0,0,0,0,0,0
+Vampiric Scepter,900,0,0,0,0,0,0,0,0,15,0,0,0.1,0
+Doran's Shield,450,0,0,80,1.2,0,0,0,0,0,0,0,0,0
+Doran's Blade,450,0,0,80,0,0,0,0,0,8,0,0,0.03,0
+Doran's Ring,400,0,0,60,0,0,0,15,0,0,0,0,0,0
+Negatron Cloak,720,0,0,0,0,0,0,0,0,0,40,0,0,0
+Needlessly Large Rod,1250,0,0,0,0,0,0,60,0,0,0,0,0,0
+The Dark Seal,350,0,0,0,0,100,0,15,0,0,0,0,0,0
+Cull,450,0,0,0,0,0,0,0,0,7,0,0,0,0
+Enchantment: Warrior,2625,0,0,0,0,0,0,0,0,60,0,0,0,0
+Enchantment: Cinderhulk,2625,0,0,400,0,0,0,0,0,0,0,0,0,0
+Enchantment: Runic Echoes,2625,0,0,0,0,0,0,60,0,0,0,0,0,0.07
+Enchantment: Warrior,2625,0,0,0,0,0,0,0,0,60,0,0,0,0
+Enchantment: Cinderhulk,2625,0,0,400,0,0,0,0,0,0,0,0,0,0
+Enchantment: Runic Echoes,2625,0,0,0,0,0,0,60,0,0,0,0,0,0.07
+Enchantment: Warrior,2625,0,0,0,0,0,0,0,0,60,0,0,0,0
+Enchantment: Cinderhulk,2625,0,0,400,0,0,0,0,0,0,0,0,0,0
+Enchantment: Runic Echoes,2625,0,0,0,0,0,0,60,0,0,0,0,0,0.07
+Enchantment: Bloodrazor,2625,0,0,0,0,0,0,0,0,0,0,0.5,0,0
+Enchantment: Bloodrazor,2625,0,0,0,0,0,0,0,0,0,0,0.5,0,0
+Enchantment: Bloodrazor,2625,0,0,0,0,0,0,0,0,0,0,0.5,0,0
+Kircheis Shard,750,0,0,0,0,0,0,0,0,0,0,0.15,0,0
+Ruby Sightstone,1600,0,0,500,0,0,0,0,0,0,0,0,0,0
+Sightstone,800,0,0,150,0,0,0,0,0,0,0,0,0,0
+Guardian's Horn,950,0,0,150,4,0,0,0,0,0,0,0,0,0
+Raptor Cloak,1200,40,0,0,0,0,0,0,0,0,0,0,0,0
+Eye of the Watchers,2200,0,0,200,0,0,0,25,0,0,0,0,0,0
+Eye of the Oasis,2200,0,0,200,0,0,0,0,0,0,0,0,0,0
+Eye of the Equinox,2200,0,0,500,0,0,0,0,0,0,0,0,0,0
+Abyssal Scepter,2750,0,0,0,0,0,0,60,0,0,60,0,0,0
+Archangel's Staff,3100,0,0,0,0,250,0,80,0,0,0,0,0,0
+Manamune,2400,0,0,0,0,250,0,0,0,25,0,0,0,0
+Berserker's Greaves,1100,0,0,0,0,0,0,0,45,0,0,0.35,0,0
+Archangel's Staff (Crystal Scar),3100,0,0,0,0,250,0,80,0,0,0,0,0,0
+Manamune (Crystal Scar),2400,0,0,0,0,250,0,0,0,25,0,0,0,0
+Boots of Swiftness,900,0,0,0,0,0,0,0,55,0,0,0,0,0
+Catalyst of Aeons,1100,0,0,225,0,300,0,0,0,0,0,0,0,0
+Sorcerer's Shoes,1100,0,0,0,0,0,0,0,45,0,0,0,0,0
+Frozen Mallet,3100,0,0,650,0,0,0,0,0,40,0,0,0,0
+Glacial Shroud,1000,25,0,0,0,250,0,0,0,0,0,0,0,0
+Iceborn Gauntlet,2700,65,0,0,0,500,0,0,0,0,0,0,0,0
+Guardian Angel,2400,60,0,0,0,0,0,0,0,0,45,0,0,0
+Rod of Ages,2700,0,0,300,0,300,0,60,0,0,0,0,0,0
+Chalice of Harmony,900,0,0,0,0,0,0,0,0,0,25,0,0,0
+Rod of Ages (Crystal Scar),2700,0,0,300,0,300,0,60,0,0,0,0,0,0
+Hextech GLP-800,3000,0,0,300,0,400,0,80,0,0,0,0,0,0
+Infinity Edge,3600,0,0.2,0,0,0,0,0,0,70,0,0,0,0
+Mortal Reminder,2700,0,0,0,0,0,0,0,0,50,0,0,0,0
+Giant Slayer,1000,0,0,0,0,0,0,0,0,10,0,0,0,0
+Last Whisper,1300,0,0,0,0,0,0,0,0,25,0,0,0,0
+Lord Dominik's Regards,2700,0,0,0,0,0,0,0,0,50,0,0,0,0
+Seraph's Embrace,3100,0,0,0,0,1000,0,80,0,0,0,0,0,0
+Mejai's Soulstealer,1400,0,0,0,0,200,0,20,0,0,0,0,0,0
+Muramana,2400,0,0,0,0,1000,0,0,0,25,0,0,0,0
+Muramana,2400,0,0,0,0,1000,0,0,0,25,0,0,0,0
+Phage,1250,0,0,200,0,0,0,0,0,15,0,0,0,0
+Phantom Dancer,2550,0,0.3,0,0,0,0,0,0,0,0,0.45,0,0.05
+Ninja Tabi,1100,30,0,0,0,0,0,0,45,0,0,0,0,0
+Seraph's Embrace,3100,0,0,0,0,1000,0,80,0,0,0,0,0,0
+Zeke's Harbinger,2350,30,0,0,0,250,0,50,0,0,0,0,0,0
+Jaurim's Fist,1200,0,0,150,0,0,0,0,0,15,0,0,0,0
+Sterak's Gage,2700,0,0,400,0,0,0,0,0,0,0,0,0,0
+Ohmwrecker,2650,50,0,300,0,0,0,0,0,0,0,0,0,0
+Sheen,1050,0,0,0,0,250,0,0,0,0,0,0,0,0
+Banner of Command,3000,0,0,200,0,0,0,60,0,0,20,0,0,0
+Spirit Visage,2800,0,0,500,0,0,0,0,0,0,55,0,0,0
+Kindlegem,800,0,0,200,0,0,0,0,0,0,0,0,0,0
+Sunfire Cape,2900,50,0,500,0,0,0,0,0,0,0,0,0,0
+Talisman of Ascension,2500,45,0,0,0,0,0,0,0,0,0,0,0,0
+Tear of the Goddess,750,0,0,0,0,250,0,0,0,0,0,0,0,0
+The Black Cleaver,3100,0,0,300,0,0,0,0,0,50,0,0,0,0
+The Bloodthirster,3700,0,0,0,0,0,0,0,0,75,0,0,0,0
+Tear of the Goddess (Crystal Scar),750,0,0,0,0,250,0,0,0,0,0,0,0,0
+Ravenous Hydra,3500,0,0,0,0,0,0,0,0,75,0,0,0.12,0
+Thornmail,2350,100,0,0,0,0,0,0,0,0,0,0,0,0
+Tiamat,1200,0,0,0,0,0,0,0,0,20,0,0,0,0
+Trinity Force,3733,0,0,250,0,250,0,0,0,25,0,0.4,0,0.05
+Warden's Mail,1000,40,0,0,0,0,0,0,0,0,0,0,0,0
+Warmog's Armor,2850,0,0,800,0,0,0,0,0,0,0,0,0,0
+Overlord's Bloodmail,2550,0,0,800,0,0,0,0,0,0,0,0,0,0
+Runaan's Hurricane,2600,0,0.3,0,0,0,0,0,0,0,0,0.4,0,0.07
+Zeal,1300,0,0.2,0,0,0,0,0,0,0,0,0.15,0,0
+Statikk Shiv,2600,0,0.3,0,0,0,0,0,0,0,0,0.35,0,0.05
+Rabadon's Deathcap,3800,0,0,0,0,0,0,120,0,0,0,0,0,0
+Wooglet's Witchcap,3500,45,0,0,0,0,0,100,0,0,0,0,0,0
+Wit's End,2500,0,0,0,0,0,0,0,0,0,40,0.4,0,0
+Frost Queen's Claim,2200,0,0,0,0,0,0,50,0,0,0,0,0,0
+Rapid Firecannon,2600,0,0.3,0,0,0,0,0,0,0,0,0.3,0,0.05
+Targon's Brace,850,0,0,175,0,0,0,0,0,0,0,0,0,0
+Frostfang,850,0,0,0,0,0,0,15,0,0,0,0,0,0
+Lich Bane,3200,0,0,0,0,250,0,80,0,0,0,0,0,0.07
+Stinger,1100,0,0,0,0,0,0,0,0,0,0,0.35,0,0
+Banshee's Veil,2450,0,0,300,0,0,0,0,0,0,70,0,0,0
+Lord Van Damm's Pillager,3600,0,0.3,0,0,0,0,0,0,65,0,0,0,0
+Aegis of the Legion,1500,0,0,200,0,0,0,0,0,0,20,0,0,0
+Fiendish Codex,900,0,0,0,0,0,0,30,0,0,0,0,0,0
+Frozen Heart,2800,90,0,0,0,400,0,0,0,0,0,0,0,0
+Mercury's Treads,1100,0,0,0,0,0,0,0,45,0,25,0,0,0
+Guardian's Orb,950,0,0,150,0,0,2,30,0,0,0,0,0,0
+Aether Wisp,850,0,0,0,0,0,0,30,0,0,0,0,0,0
+Nashor's Tooth,3000,0,0,0,0,0,0,80,0,0,0,0.5,0,0
+Rylai's Crystal Scepter,3200,0,0,400,0,0,0,100,0,0,0,0,0,0
+Boots of Mobility,900,0,0,0,0,0,0,0,115,0,0,0,0,0
+Wicked Hatchet,1200,0,0.1,0,0,0,0,0,0,20,0,0,0,0
+Executioner's Calling,800,0,0,0,0,0,0,0,0,15,0,0,0,0
+Guinsoo's Rageblade,3600,0,0,0,0,0,0,50,0,35,0,0,0,0
+Caulfield's Warhammer,1100,0,0,0,0,0,0,0,0,25,0,0,0,0
+Serrated Dirk,1100,0,0,0,0,0,0,0,0,20,0,0,0,0
+Void Staff,2650,0,0,0,0,0,0,80,0,0,0,0,0,0
+Haunting Guise,1600,0,0,200,0,0,0,25,0,0,0,0,0,0
+Dervish Blade,2700,0,0,0,0,0,0,0,0,0,45,0.5,0,0
+Mercurial Scimitar,3600,0,0,0,0,0,0,0,0,65,35,0,0.1,0
+Quicksilver Sash,1300,0,0,0,0,0,0,0,0,0,30,0,0,0
+Youmuu's Ghostblade,3200,0,0,0,0,0,0,0,0,60,0,0,0,0
+Randuin's Omen,2900,60,0,500,0,0,0,0,0,0,0,0,0,0
+Bilgewater Cutlass,1500,0,0,0,0,0,0,0,0,25,0,0,0.1,0
+Hextech Revolver,1050,0,0,0,0,0,0,40,0,0,0,0,0,0
+Hextech Gunblade,3400,0,0,0,0,0,0,80,0,40,0,0,0,0
+Duskblade of Draktharr,3250,0,0,0,0,0,0,0,0,75,0,0,0,0.05
+Liandry's Torment,3200,0,0,300,0,0,0,80,0,0,0,0,0,0
+Hextech Protobelt-01,2500,0,0,300,0,0,0,60,0,0,0,0,0,0
+Blade of the Ruined King,3400,0,0,0,0,0,0,0,0,25,0,0.4,0.1,0
+Hexdrinker,1300,0,0,0,0,0,0,0,0,20,35,0,0,0
+Maw of Malmortius,3250,0,0,0,0,0,0,0,0,55,40,0,0,0
+Zhonya's Hourglass,2900,45,0,0,0,0,0,70,0,0,0,0,0,0
+Ionian Boots of Lucidity,900,0,0,0,0,0,0,0,45,0,0,0,0,0
+Morellonomicon,2900,0,0,0,0,400,0,100,0,0,0,0,0,0
+Moonflair Spellblade,2500,50,0,0,0,0,0,50,0,0,50,0,0,0
+Athene's Unholy Grail,2250,0,0,0,0,0,0,40,0,0,25,0,0,0
+Sanguine Blade,2400,0,0,0,0,0,0,0,0,45,0,0,0.1,0
+Guardian's Hammer,950,0,0,150,0,0,0,0,0,15,0,0,0.1,0
+The Lightbringer,2350,0,0.3,0,0,0,0,0,0,30,0,0,0,0
+Arcane Sweeper,2150,25,0,225,0,250,0,0,0,0,0,0,0,0
+Locket of the Iron Solari,2500,0,0,400,0,0,0,0,0,0,20,0,0,0
+Seeker's Armguard,1200,30,0,0,0,0,0,20,0,0,0,0,0,0
+Spectre's Cowl,1200,0,0,250,0,0,0,0,0,0,30,0,0,0
+Mikael's Crucible,2400,0,0,0,0,0,0,0,0,0,35,0,0,0
+Luden's Echo,3200,0,0,0,0,0,0,100,0,0,0,0,0,0.1
+Relic Shield,350,0,0,75,0,0,0,0,0,0,0,0,0,0
+Spellthief's Edge,350,0,0,0,0,0,0,5,0,0,0,0,0,0
+Face of the Mountain,2200,0,0,450,0,0,0,0,0,0,0,0,0,0
+Ardent Censer,2400,0,0,0,0,0,0,60,0,0,0,0,0,0
+Essence Reaver,3600,0,0.2,0,0,0,0,0,0,70,0,0,0,0
+Zz'Rot Portal,2700,55,0,0,0,0,0,0,0,0,55,0,0,0
+Tower Surge: Firestorm Bulwark,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Enchantment: Warrior,1625,0,0,0,0,0,0,0,0,60,0,0,0,0
+Enchantment: Cinderhulk,1625,0,0,400,0,0,0,0,0,0,0,0,0,0
+Enchantment: Runic Echoes,1625,0,0,0,0,0,0,60,0,0,0,0,0,0.07
+Enchantment: Bloodrazor,1625,0,0,0,0,0,0,0,0,0,0,0.5,0,0
+Dead Man's Plate,2900,50,0,500,0,0,0,0,0,0,0,0,0,0
+Titanic Hydra,3500,0,0,450,0,0,0,0,0,35,0,0,0,0
+Bami's Cinder,1100,0,0,280,0,0,0,0,0,0,0,0,0,0
+Righteous Glory,2500,0,0,500,0,300,0,0,0,0,0,0,0,0
+Crystalline Bracer,650,0,0,200,0,0,0,0,0,0,0,0,0,0
+Lost Chapter,900,0,0,0,0,300,0,25,0,0,0,0,0,0
+Death's Dance,3500,0,0,0,0,0,0,0,0,75,0,0,0,0
