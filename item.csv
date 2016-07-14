@@ -1,4 +1,4 @@
-name,gold,FlatArmorMod,FlatCritChanceMod,FlatHPPoolMod,FlatHPRegenMod,FlatMPPoolMod,FlatMPRegenMod,FlatMagicDamageMod,FlatMovementSpeedMod,FlatPhysicalDamageMod,FlatSpellBlockMod,PercentAttackSpeedMod,PercentLifeStealMod,PercentMovementSpeedMod
+Name,Gold,FlatArmorMod,FlatCritChanceMod,FlatHPPoolMod,FlatHPRegenMod,FlatMPPoolMod,FlatMPRegenMod,FlatMagicDamageMod,FlatMovementSpeedMod,FlatPhysicalDamageMod,FlatSpellBlockMod,PercentAttackSpeedMod,PercentLifeStealMod,PercentMovementSpeedMod
 Boots of Speed,300,0,0,0,0,0,0,0,25,0,0,0,0,0
 Giant's Belt,1000,0,0,380,0,0,0,0,0,0,0,0,0,0
 Cloak of Agility,800,0,0.2,0,0,0,0,0,0,0,0,0,0,0

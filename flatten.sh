@@ -8,8 +8,8 @@ sed -i '' 's/-[[:space:]]*/-/g' ${json}
 stats=$(jq -r '.data|to_entries|.[0].value.stats|keys|map(".value.stats."+.)|join(",")' ${json})
 info=$(jq -r '.data|to_entries|.[0].value.info|keys|map(".value.info."+.)|join(",")' ${json})
 
-echo "name,${info},${stats}" | sed $'s/,/\\\n/g'|awk -F'.' '{print $NF}' | xargs | sed 's/ /,/g' > ${file}
-jq --raw-output ".data | to_entries | map([.key,${info},${stats}] | map(.|tostring)| join(\",\"))|join(\"\n\")" ${json} >> ${file}
+echo "name,tag,${info},${stats}" | sed $'s/,/\\\n/g'|awk -F'.' '{print $NF}' | xargs | sed 's/ /,/g' > ${file}
+jq --raw-output ".data | to_entries | map([.key,.value.tags[0],${info},${stats}] | map(.|tostring)| join(\",\"))|join(\"\n\")" ${json} >> ${file}
 
 # item.json
 json=item.json
@@ -18,7 +18,7 @@ sed -i '' 's/-[[:space:]]*/-/g' ${json}
 
 stats=$(jq -r '.data|to_entries|map(.value.stats|keys|join("\n"))|join("\n")' ${json} | sed '/^$/d' |sort| uniq)
 
-echo "name,gold,$(echo ${stats} | sed 's/ /,/g')" > ${file}
+echo "Name,Gold,$(echo ${stats} | sed 's/ /,/g')" > ${file}
 jq -r '.data|to_entries|map(select(.value.stats|length >0)|{name:.value.name,gold:.value.gold.total,stats:.value.stats}|tostring)|join("\n")' ${json}\
 |while read line
 do
