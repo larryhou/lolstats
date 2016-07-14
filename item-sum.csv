@@ -102,7 +102,7 @@ Click to Consume: Places a visible ward that reveals the surrounding area and in
 UNIQUE Passive: Item Active cooldowns are reduced by 20%.
 UNIQUE Active -Warding: Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges and refills when visiting the shop.
 (A player may only have 3 Stealth Wards on the map at one time. Unique Passives with the same name don't stack.)"
-"Oracle's Extract",300,"Consumable,Stealth,Vision","Click to Consume: Grants detection of nearby invisible units for 5 minutes."
+"Oracle's Extract",300,"Consumable,Stealth,Vision","Click to Consume: Grants detection of nearby invisible or unseen enemy units for 5 minutes."
 "Sightstone",800,"Active,Health,Vision","+150 Health
 UNIQUE Active -Warding: Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds.  Holds up to 3 charges which refill upon visiting the shop. 
 (A player may only have 3 Stealth Wards on the map at one time. Unique Passives with the same name don't stack.)"
@@ -171,12 +171,12 @@ UNIQUE Passive -Mana Charge: Grants +4 maximum Mana (max +750 Mana) for each bas
 Transforms into Muramana at +750 Mana."
 "Berserker's Greaves",1100,"AttackSpeed,Boots"," +35% Attack Speed
 UNIQUE Passive -Enhanced Movement: +45 Movement Speed"
-"Archangel's Staff (Crystal Scar)",3100,"Mana,ManaRegen,SpellDamage","+80 Ability Power
+"Archangel's Staff (Quick Charge)",3100,"Mana,ManaRegen,SpellDamage","+80 Ability Power
 +250 Mana
 UNIQUE Passive -Awe: Grants Ability Power equal to 3% of maximum Mana. Refunds 25% of Mana spent. 
 UNIQUE Passive -Mana Charge: Grants +12 maximum Mana (max +750 Mana) for each spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).
 Transforms into Seraph's Embrace at +750 Mana."
-"Manamune (Crystal Scar)",2400,"Damage,Mana,ManaRegen,OnHit","+25 Attack Damage
+"Manamune (Quick Charge)",2400,"Damage,Mana,ManaRegen,OnHit","+25 Attack Damage
 +250 Mana
 UNIQUE Passive -Awe: Grants bonus Attack Damage equal to 2% of maximum Mana. Refunds 15% of Mana spent.
 UNIQUE Passive -Mana Charge: Grants +6 maximum Mana (max +750 Mana) for each basic attack, spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).
@@ -213,7 +213,7 @@ UNIQUE Passive -Eternity: 15% of damage taken from champions is gained as Mana. 
 +50% Base Mana Regen 
 UNIQUE Passive: Increases Base Health Regeneration by 100% if current Health % is lower than current Mana %.  
 Increases Base Mana Regeneration by 100% if current Mana % is lower than current Health %."
-"Rod of Ages (Crystal Scar)",2700,"Health,HealthRegen,Mana,ManaRegen,SpellDamage","+300 Health
+"Rod of Ages (Quick Charge)",2700,"Health,HealthRegen,Mana,ManaRegen,SpellDamage","+300 Health
 +300 Mana
 +60 Ability Power
 Passive: Grants +20 Health, +10 Mana, and +4 Ability Power per stack (max +200 Health, +100 Mana, and +40 Ability Power). Grants 1 stack per 40 seconds (max 10 stacks).
@@ -333,7 +333,7 @@ UNIQUE Passive -Rage: Dealing physical damage grants 20 movement speed for 2 sec
 UNIQUE Passive: +20% Life Steal
 UNIQUE Passive: Your basic attacks can now overheal you. Excess life is stored as a shield that can block 50-350 damage, based on champion level.
 This shield decays slowly if you haven't dealt or taken damage in the last 25 seconds."
-"Tear of the Goddess (Crystal Scar)",750,"Mana,ManaRegen","+250 Mana
+"Tear of the Goddess (Quick Charge)",750,"Mana,ManaRegen","+250 Mana
 UNIQUE Passive -Awe: Refunds 15% of Mana spent.
 UNIQUE Passive -Mana Charge: Grants 6 maximum Mana on spell cast or Mana expenditure (up to 2 times per 8 seconds).
 Caps at +750 Mana."
@@ -433,9 +433,10 @@ UNIQUE Passive: +10% Cooldown Reduction"
 +70 Magic Resist
 +100% Base Health Regeneration 
 UNIQUE Passive: Grants a spell shield that blocks the next enemy ability. This shield refreshes after no damage is taken from enemy champions for 40 seconds."
-"Lord Van Damm's Pillager",3600,"CriticalStrike,Damage","+65 Attack Damage
-+30% Critical Strike Chance
-UNIQUE Passive: Critical Strikes cause enemies to bleed for an additional 150% of bonus Attack Damage as magic damage over 3 seconds and reveal them for the duration."
+"Lord Van Damm's Pillager",2600,"Armor,ArmorPenetration,Aura,CooldownReduction,Damage","+45 Attack Damage
++50 Armor
++10% Cooldown Reduction
+UNIQUE Aura: Reduces the Armor of nearby enemy champions by 10 -25."
 "Aegis of the Legion",1500,"Aura,Health,HealthRegen,SpellBlock","+200 Health
 +100% Base Health Regen 
 +20 Magic Resist
@@ -601,10 +602,10 @@ UNIQUE Aura -Legion: Grants nearby allies +15 Magic Resist."
 "Seeker's Armguard",1200,"Armor,SpellDamage","+30 Armor
 +20 Ability Power
 UNIQUE Passive: Killing a unit grants 0.5 bonus Armor and Ability Power. This bonus stacks up to 30 times."
-"The Hex Core mk-1",1000,"Mana,SpellDamage","+3 Ability Power per level
+"The Hex Core mk-1",1250,"Mana,SpellDamage","+3 Ability Power per level
 +15 Mana per level
 UNIQUE Passive -Progress: Viktor can upgrade one of his basic spells."
-"The Hex Core mk-2",2000,"Mana,SpellDamage","+6 Ability Power per level
+"The Hex Core mk-2",2250,"Mana,SpellDamage","+6 Ability Power per level
 +20 Mana per level
 UNIQUE Passive -Progress: Viktor can upgrade one of his basic spells."
 "Perfect Hex Core",3000,"Mana,SpellDamage","+10 Ability Power per level
@@ -707,27 +708,25 @@ UNIQUE Active: Spawns a Void Gate for 150 seconds (150 second cooldown).
 Every 4 seconds the gate makes a Voidspawn. The first and every fourth Voidspawn gains 15% of maximum Health as damage."
 "The Black Spear",0,"Active","
 Active: Offer to bind with an ally for the remainder of the game, becoming Oathsworn Allies. Oathsworn empowers you both while near one another."
-"Siege Warp",10,"","Active: Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.
-''Clever flavor is a flavor all its own.''"
+"Siege Teleport",10,"","Active: Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform."
 "Siege Ballista",0,"","
 Deploys a ballista that shoots the closest turret.
-Places a long range balista if within 2200 range of an enemy turret. After an 5 second delay, it will begin firing at the nearest enemy turret, dealing heavy damage. If the targeted turret expires, the ballista will as well."
+Places a long range ballista if within 2200 range of an enemy turret. After an 5 second delay, it will begin firing at the nearest enemy turret, dealing heavy damage. If the targeted turret expires, the ballista will as well."
 "",0,"",""
-"Siege Warp",10,"","Active: Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.
-''Clever flavor is a flavor all its own.''"
-"Tower Surge: Beam of Ruination",0,"","
-Attach, then recast to fire a damaging beam from a turret to your cursor
+"Siege Teleport",10,"","Active: Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform."
+"Tower: Beam of Ruination",0,"","
+Attach, then recast to fire a damaging beam from a turret to your cursor.
 First Cast: Attach a Slayer Beam to the target turret that can be fired 3 times.
 Next Three Casts: Fires the attached beam towards your cursor, dealing 30/level + 30% of the hit target's maximum health (20% damage to minions) in magic damage to all targets in a line.
 Beam will last 15 seconds, or until it has been fired 3 times."
 "Port Pad",0,"","
 Deploy an additional teleport target.
-Places a port pad at target location. After a 4 second delay, it activates, allowing you or your allies to teleport to it from base."
-"Tower Surge: Firestorm Bulwark",0,"","
+Places a Port Pad at target location. After a 4 second delay, it activates, allowing you or your allies to teleport to it from base."
+"Tower: Storm Bulwark",0,"","
 Makes a turret go invulnerable, then rain fire.
 Makes the target turret invulnerable for 6 seconds. Two seconds before expiry, it unleashes a missile volley, dealing 650 true damage over the remaining time to all nearby enemies.
 Cannot be used on the same turret more than once in 15 seconds"
-"",10,"",""
+"Nexus Siege: Siege Weapon Slot",10,"","In Nexus Siege, Summoner Spells are replaced with Siege Weapon Slots. Spend Crystal Shards to buy single-use Siege Weapons from the item shop, then use your Summoner Spell keys to activate them!"
 "Flash Zone",0,"","
 Allows team to cast Flash repeatedly in a limited zone.
 Creates a magic zone for your team for 5 seconds. While in this zone, you and your allies have your summoner spells replaced by an instant cast blink that moves you to any location in the zone (1 second cooldown)"
@@ -737,14 +736,15 @@ Place a Vanguard Banner at target location. After an 2 second delay, any nearby 
 "Siege Refund",0,"","Refunds all purchased Siege Weapons for their full price."
 "Entropy Field",0,"","
 Stun minions and slow champions in an area.
-Places an entropy field at target location for 5 seconds.  Enemy minions and Siege Ballistas trapped in the field are unable to move or attack while in the field.  Enemy champions in the field have their movement speed reduced by 25%."
+Places an Entropy Field at target location for 5 seconds.  Enemy minions and Siege Ballistas trapped in the field are unable to move or attack while in the field.  Enemy champions in the field have their Movement Speed reduced by 25%."
 "Seer Stone (Trinket)",0,"Active,Trinket,Vision","Limited to 1 Trinket.
 Active: Reveals a small area within 1400 range for 3 seconds. Enemy champions will be revealed for 5 seconds (60 second cooldown)"
 "Shield Totem",0,"","
 Place a totem that shields nearby deployables.
-Places a Shield Totem at target location. After a 2 second delay, the totem will activate, granting a 2 (+1 per additional shield totem) strength shield to all nearby deployables."
-"Siege Warp (Inactive)",0,"",""
-"Siege Sight Warder",0,"",""
+Places a Shield Totem at target location. After a 2 second delay, the totem will activate, granting a 2 (+1 per additional Shield Totem) strength shield to all nearby deployables."
+"Siege Teleport (Inactive)",0,"",""
+"Siege Sight Warder",0,"","Limited to 1 Trinket.
+Active: Places a Stealth Ward that lasts 30 seconds (30 second cooldown)."
 "Enchantment: Warrior",1625,"","+60 Attack Damage
 +10% Cooldown Reduction"
 "Enchantment: Cinderhulk",1625,"","+400 Health

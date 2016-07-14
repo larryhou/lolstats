@@ -1,6 +1,6 @@
 {
     "type": "summoner",
-    "version": "6.13.1",
+    "version": "6.14.1",
     "data": {
         "SummonerBarrier": {
             "id": "SummonerBarrier",
@@ -451,7 +451,7 @@
         "SummonerTeleport": {
             "id": "SummonerTeleport",
             "name": "Teleport",
-            "description": "After channeling for 3.5 seconds, teleports your champion to target allied structure, minion, or ward.",
+            "description": "After channeling for 4.5 seconds, teleports your champion to target allied structure, minion, or ward.",
             "tooltip": "After channeling for {{ f1 }} seconds, your champion teleports to target allied structure, minion, or ward.<br><br>You may reactivate Teleport to cancel it, placing it on a {{ f3 }} second cooldown.",
             "maxrank": 1,
             "cooldown": [300],

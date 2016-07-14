@@ -1,6 +1,6 @@
 {
     "type": "item",
-    "version": "6.13.1",
+    "version": "6.14.1",
     "basic": {
         "name": "",
         "rune": {
@@ -244,7 +244,7 @@
             "description": "<stats>+20% Critical Strike Chance</stats>",
             "colloq": ";",
             "plaintext": "Increases critical strike chance",
-            "into": ["3031", "3104", "3185", "3508"],
+            "into": ["3031", "3185", "3508"],
             "image": {
                 "full": "1018.png",
                 "sprite": "item0.png",
@@ -415,7 +415,7 @@
             "colloq": ";",
             "plaintext": "Greatly increases Armor",
             "from": ["1029"],
-            "into": ["3075", "3068", "3026", "2053", "3742"],
+            "into": ["3075", "3068", "3026", "2053", "3104", "3742"],
             "image": {
                 "full": "1031.png",
                 "sprite": "item0.png",
@@ -518,7 +518,7 @@
             "description": "<stats>+25 Attack Damage</stats>",
             "colloq": ";",
             "plaintext": "Moderately increases Attack Damage",
-            "into": ["3004", "3008", "3022", "3031", "3035", "3074", "3104", "3124", "3139", "3181", "3812"],
+            "into": ["3004", "3008", "3022", "3031", "3035", "3074", "3124", "3139", "3181", "3812"],
             "image": {
                 "full": "1037.png",
                 "sprite": "item0.png",
@@ -572,7 +572,7 @@
             "maps": {
                 "1": false,
                 "8": true,
-                "10": false,
+                "10": true,
                 "11": true,
                 "12": true,
                 "14": false
@@ -2052,9 +2052,9 @@
         },
         "2047": {
             "name": "Oracle's Extract",
-            "description": "<consumable>Click to Consume:</consumable> Grants detection of nearby invisible units for 5 minutes.",
+            "description": "<consumable>Click to Consume:</consumable> Grants detection of nearby invisible or unseen enemy units for 5 minutes.",
             "colloq": ";",
-            "plaintext": "Allows champion to see invisible units",
+            "plaintext": "Allows champion to see invisible or unseen enemy units",
             "consumed": true,
             "consumeOnFull": true,
             "into": [],
@@ -2259,9 +2259,9 @@
             "maps": {
                 "1": false,
                 "8": false,
-                "10": false,
+                "10": true,
                 "11": true,
-                "12": false,
+                "12": true,
                 "14": false
             },
             "stats": {
@@ -2756,7 +2756,7 @@
             "depth": 2
         },
         "3007": {
-            "name": "Archangel's Staff (Crystal Scar)",
+            "name": "Archangel's Staff (Quick Charge)",
             "description": "<stats>+80 Ability Power<br><mana>+250 Mana</mana></stats><br><br><mana><unique>UNIQUE Passive -Awe:</unique> Grants Ability Power equal to 3% of maximum Mana. Refunds 25% of Mana spent. <br><unique>UNIQUE Passive -Mana Charge:</unique> Grants +12 maximum Mana (max +750 Mana) for each spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).<br><br>Transforms into Seraph's Embrace at +750 Mana.</mana>",
             "colloq": ";aa",
             "plaintext": "Increases Ability Power based on maximum Mana",
@@ -2782,7 +2782,7 @@
                 "1": false,
                 "8": true,
                 "10": false,
-                "11": false,
+                "11": true,
                 "12": false,
                 "14": false
             },
@@ -2802,7 +2802,7 @@
             "depth": 3
         },
         "3008": {
-            "name": "Manamune (Crystal Scar)",
+            "name": "Manamune (Quick Charge)",
             "description": "<stats>+25 Attack Damage<br><mana>+250 Mana</mana></stats><br><br><mana><unique>UNIQUE Passive -Awe:</unique> Grants bonus Attack Damage equal to 2% of maximum Mana. Refunds 15% of Mana spent.<br><unique>UNIQUE Passive -Mana Charge:</unique> Grants +6 maximum Mana (max +750 Mana) for each basic attack, spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).<br><br>Transforms into Muramana at +750 Mana.</mana>",
             "colloq": ";",
             "plaintext": "Increases Attack Damage based on maximum Mana",
@@ -2828,7 +2828,7 @@
                 "1": false,
                 "8": true,
                 "10": false,
-                "11": false,
+                "11": true,
                 "12": false,
                 "14": false
             },
@@ -3235,7 +3235,7 @@
             "depth": 2
         },
         "3029": {
-            "name": "Rod of Ages (Crystal Scar)",
+            "name": "Rod of Ages (Quick Charge)",
             "description": "<stats>+300 Health<br><mana>+300 Mana</mana><br>+60 Ability Power</stats><br><br><passive>Passive:</passive> Grants +20 Health, +10 Mana, and +4 Ability Power per stack (max +200 Health, +100 Mana, and +40 Ability Power). Grants 1 stack per 40 seconds (max 10 stacks).<br><unique>UNIQUE Passive -Eternity:</unique> 15% of damage taken from champions is gained as Mana. Spending Mana restores 20% of the cost as Health, up to 25 per spell cast.",
             "colloq": ";roa",
             "plaintext": "Greatly increases Health, Mana, and Ability Power",
@@ -3261,7 +3261,7 @@
                 "1": false,
                 "8": true,
                 "10": false,
-                "11": false,
+                "11": true,
                 "12": false,
                 "14": false
             },
@@ -3356,7 +3356,7 @@
             "maps": {
                 "1": false,
                 "8": true,
-                "10": false,
+                "10": true,
                 "11": true,
                 "12": true,
                 "14": false
@@ -4443,7 +4443,7 @@
             "maps": {
                 "1": false,
                 "8": true,
-                "10": false,
+                "10": true,
                 "11": true,
                 "12": true,
                 "14": false
@@ -4460,7 +4460,7 @@
             "depth": 3
         },
         "3073": {
-            "name": "Tear of the Goddess (Crystal Scar)",
+            "name": "Tear of the Goddess (Quick Charge)",
             "description": "<stats><mana>+250 Mana</mana></stats><br><br><mana><unique>UNIQUE Passive -Awe:</unique> Refunds 15% of Mana spent.<br><unique>UNIQUE Passive -Mana Charge:</unique> Grants 6 maximum Mana on spell cast or Mana expenditure (up to 2 times per 8 seconds).<br><br>Caps at +750 Mana.</mana>",
             "colloq": ";",
             "plaintext": "Increases maximum Mana as Mana is spent",
@@ -4486,7 +4486,7 @@
                 "1": false,
                 "8": true,
                 "10": false,
-                "11": false,
+                "11": true,
                 "12": false,
                 "14": false
             },
@@ -4574,7 +4574,7 @@
             "maps": {
                 "1": false,
                 "8": true,
-                "10": false,
+                "10": true,
                 "11": true,
                 "12": true,
                 "14": false
@@ -4743,8 +4743,8 @@
             "tags": ["CooldownReduction", "Health", "HealthRegen"],
             "maps": {
                 "1": false,
-                "8": false,
-                "10": false,
+                "8": true,
+                "10": true,
                 "11": true,
                 "12": true,
                 "14": false
@@ -4787,8 +4787,8 @@
             "tags": ["Health", "HealthRegen"],
             "maps": {
                 "1": false,
-                "8": true,
-                "10": true,
+                "8": false,
+                "10": false,
                 "11": false,
                 "12": false,
                 "14": false
@@ -5408,10 +5408,10 @@
         },
         "3104": {
             "name": "Lord Van Damm's Pillager",
-            "description": "<stats>+65 Attack Damage<br>+30% Critical Strike Chance</stats><br><br><unique>UNIQUE Passive:</unique> Critical Strikes cause enemies to bleed for an additional 150% of bonus Attack Damage as magic damage over 3 seconds and reveal them for the duration.",
-            "colloq": ";ie",
-            "plaintext": "Massively enhances critical strikes",
-            "from": ["3122", "1037", "1018"],
+            "description": "<stats>+45 Attack Damage<br>+50 Armor<br>+10% Cooldown Reduction</stats><br><br><aura>UNIQUE Aura:</aura> Reduces the Armor of nearby enemy champions by <levelScale>10 -25</levelScale>.",
+            "colloq": "lvd;",
+            "plaintext": "Reduces Armor of nearby enemies",
+            "from": ["3133", "1031"],
             "into": [],
             "image": {
                 "full": "3104.png",
@@ -5423,27 +5423,27 @@
                 "h": 48
             },
             "gold": {
-                "base": 725,
+                "base": 700,
                 "purchasable": true,
-                "total": 3600,
-                "sell": 2520
+                "total": 2600,
+                "sell": 1820
             },
-            "tags": ["CriticalStrike", "Damage"],
+            "tags": ["Armor", "ArmorPenetration", "Aura", "CooldownReduction", "Damage"],
             "maps": {
                 "1": false,
-                "8": true,
-                "10": true,
+                "8": false,
+                "10": false,
                 "11": false,
                 "12": false,
                 "14": false
             },
             "stats": {
-                "FlatPhysicalDamageMod": 65.0,
-                "FlatCritChanceMod": 0.3
+                "FlatArmorMod": 50.0,
+                "FlatPhysicalDamageMod": 45.0
             },
             "effect": {
-                "Effect1Amount": "1.5",
-                "Effect2Amount": "3"
+                "Effect1Amount": "-10",
+                "Effect2Amount": "-25"
             },
             "depth": 3
         },
@@ -5874,8 +5874,8 @@
             "tags": ["CriticalStrike", "Damage", "OnHit"],
             "maps": {
                 "1": false,
-                "8": true,
-                "10": true,
+                "8": false,
+                "10": false,
                 "11": false,
                 "12": false,
                 "14": false
@@ -5983,7 +5983,7 @@
             "plaintext": "Attack Damage and Cooldown Reduction",
             "stacks": 0.0,
             "from": ["1036", "1036"],
-            "into": ["3142", "1400", "1408", "1412", "3071", "3508", "3671", "3812"],
+            "into": ["3142", "1400", "1408", "1412", "3071", "3104", "3508", "3671", "3812"],
             "image": {
                 "full": "3133.png",
                 "sprite": "item1.png",
@@ -6162,8 +6162,8 @@
             "tags": ["Active", "AttackSpeed", "CooldownReduction", "NonbootsMovement", "SpellBlock"],
             "maps": {
                 "1": false,
-                "8": true,
-                "10": true,
+                "8": false,
+                "10": false,
                 "11": false,
                 "12": false,
                 "14": false
@@ -6205,7 +6205,7 @@
             "maps": {
                 "1": false,
                 "8": true,
-                "10": false,
+                "10": true,
                 "11": true,
                 "12": true,
                 "14": false
@@ -6501,7 +6501,7 @@
             "maps": {
                 "1": false,
                 "8": true,
-                "10": false,
+                "10": true,
                 "11": true,
                 "12": true,
                 "14": false
@@ -6985,8 +6985,8 @@
             "tags": ["Damage", "LifeSteal"],
             "maps": {
                 "1": false,
-                "8": true,
-                "10": true,
+                "8": false,
+                "10": false,
                 "11": false,
                 "12": false,
                 "14": false
@@ -7235,10 +7235,10 @@
                 "h": 48
             },
             "gold": {
-                "base": 1000,
+                "base": 1250,
                 "purchasable": true,
-                "total": 1000,
-                "sell": 700
+                "total": 1250,
+                "sell": 875
             },
             "tags": ["Mana", "SpellDamage"],
             "maps": {
@@ -7276,8 +7276,8 @@
             "gold": {
                 "base": 1000,
                 "purchasable": true,
-                "total": 2000,
-                "sell": 1400
+                "total": 2250,
+                "sell": 1575
             },
             "tags": ["Mana", "SpellDamage"],
             "maps": {
@@ -7313,7 +7313,7 @@
                 "h": 48
             },
             "gold": {
-                "base": 1000,
+                "base": 750,
                 "purchasable": true,
                 "total": 3000,
                 "sell": 2100
@@ -8187,7 +8187,7 @@
             "maps": {
                 "1": false,
                 "8": true,
-                "10": false,
+                "10": true,
                 "11": true,
                 "12": true,
                 "14": false
@@ -8288,8 +8288,8 @@
             "stats": {}
         },
         "3630": {
-            "name": "Siege Warp",
-            "description": "<unique>Active:</unique> Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.<br><br><i><font color='#FDD017'>''Clever flavor is a flavor all its own.''</font></i>",
+            "name": "Siege Teleport",
+            "description": "<unique>Active:</unique> Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.",
             "colloq": "",
             "plaintext": "",
             "inStore": false,
@@ -8323,7 +8323,7 @@
         "3631": {
             "name": "Siege Ballista",
             "group": "SiegeSniperCannonGroup",
-            "description": "<br><font color='#FF9900'>Deploys a ballista that shoots the closest turret.</font><br><br>Places a long range balista if within 2200 range of an enemy turret. After an 5 second delay, it will begin firing at the nearest enemy turret, dealing heavy damage. If the targeted turret expires, the ballista will as well.",
+            "description": "<br><font color='#FF9900'>Deploys a ballista that shoots the closest turret.</font><br><br>Places a long range ballista if within 2200 range of an enemy turret. After an 5 second delay, it will begin firing at the nearest enemy turret, dealing heavy damage. If the targeted turret expires, the ballista will as well.",
             "colloq": "",
             "plaintext": "Place a long range anti-turret ballista",
             "consumed": true,
@@ -8409,8 +8409,8 @@
             }
         },
         "3633": {
-            "name": "Siege Warp",
-            "description": "<unique>Active:</unique> Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.<br><br><i><font color='#FDD017'>''Clever flavor is a flavor all its own.''</font></i>",
+            "name": "Siege Teleport",
+            "description": "<unique>Active:</unique> Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.",
             "colloq": "",
             "plaintext": "",
             "inStore": false,
@@ -8442,9 +8442,9 @@
             "stats": {}
         },
         "3634": {
-            "name": "Tower Surge: Beam of Ruination",
+            "name": "Tower: Beam of Ruination",
             "group": "SiegeLaserAffixGroup",
-            "description": "<br><font color='#FF9900'>Attach, then recast to fire a damaging beam from a turret to your cursor</font><br><br><font color='#FF9900'>First Cast:</font> Attach a Slayer Beam to the target turret that can be fired 3 times.<br></br><font color='#FF9900'>Next Three Casts:</font> Fires the attached beam towards your cursor, dealing 30/level + 30% of the hit target's maximum health (20% damage to minions) in magic damage to all targets in a line.<br></br><br></br>Beam will last 15 seconds, or until it has been fired 3 times.",
+            "description": "<br><font color='#FF9900'>Attach, then recast to fire a damaging beam from a turret to your cursor.</font><br><br><font color='#FF9900'>First Cast:</font> Attach a Slayer Beam to the target turret that can be fired 3 times.<br></br><font color='#FF9900'>Next Three Casts:</font> Fires the attached beam towards your cursor, dealing 30/level + 30% of the hit target's maximum health (20% damage to minions) in magic damage to all targets in a line.<br></br><br></br>Beam will last 15 seconds, or until it has been fired 3 times.",
             "colloq": "",
             "plaintext": "Attaches a three shot beam to a turret which can then be aimed and fired",
             "consumed": true,
@@ -8489,9 +8489,9 @@
         "3635": {
             "name": "Port Pad",
             "group": "SiegeTeleportPadGroup",
-            "description": "<br><font color='#FF9900'>Deploy an additional teleport target.</font><br><br>Places a port pad at target location. After a 4 second delay, it activates, allowing you or your allies to teleport to it from base.",
+            "description": "<br><font color='#FF9900'>Deploy an additional teleport target.</font><br><br>Places a Port Pad at target location. After a 4 second delay, it activates, allowing you or your allies to teleport to it from base.",
             "colloq": "",
-            "plaintext": "Creates another point for your team to warp to",
+            "plaintext": "Creates another point for your team to Teleport to",
             "consumed": true,
             "consumeOnFull": true,
             "into": [],
@@ -8528,7 +8528,7 @@
             }
         },
         "3636": {
-            "name": "Tower Surge: Firestorm Bulwark",
+            "name": "Tower: Storm Bulwark",
             "group": "SiegeEmergencyShieldGroup",
             "description": "<br><font color='#FF9900'>Makes a turret go invulnerable, then rain fire.</font><br><br>Makes the target turret invulnerable for 6 seconds. Two seconds before expiry, it unleashes a missile volley, dealing 650 true damage over the remaining time to all nearby enemies.<br><br>Cannot be used on the same turret more than once in 15 seconds",
             "colloq": "",
@@ -8572,9 +8572,9 @@
             }
         },
         "3637": {
-            "name": "",
-            "description": "",
-            "colloq": ";",
+            "name": "Nexus Siege: Siege Weapon Slot",
+            "description": "In Nexus Siege, Summoner Spells are replaced with Siege Weapon Slots. Spend Crystal Shards to buy single-use Siege Weapons from the item shop, then use your Summoner Spell keys to activate them!",
+            "colloq": "",
             "plaintext": "",
             "inStore": false,
             "into": [],
@@ -8728,7 +8728,7 @@
         "3643": {
             "name": "Entropy Field",
             "group": "SiegeTimefieldGroup",
-            "description": "<br><font color='#FF9900'>Stun minions and slow champions in an area.</font><br><br>Places an entropy field at target location for 5 seconds.  Enemy minions and Siege Ballistas trapped in the field are unable to move or attack while in the field.  Enemy champions in the field have their movement speed reduced by 25%.",
+            "description": "<br><font color='#FF9900'>Stun minions and slow champions in an area.</font><br><br>Places an Entropy Field at target location for 5 seconds.  Enemy minions and Siege Ballistas trapped in the field are unable to move or attack while in the field.  Enemy champions in the field have their Movement Speed reduced by 25%.",
             "colloq": "",
             "plaintext": "Places a field that stuns enemy minions and slows champions",
             "consumed": true,
@@ -8809,7 +8809,7 @@
         "3647": {
             "name": "Shield Totem",
             "group": "SiegeShieldGeneratorGroup",
-            "description": "<br><font color='#FF9900'>Place a totem that shields nearby deployables.</font><br><br>Places a Shield Totem at target location. After a 2 second delay, the totem will activate, granting a 2 (+1 per additional shield totem) strength shield to all nearby deployables.",
+            "description": "<br><font color='#FF9900'>Place a totem that shields nearby deployables.</font><br><br>Places a Shield Totem at target location. After a 2 second delay, the totem will activate, granting a 2 (+1 per additional Shield Totem) strength shield to all nearby deployables.",
             "colloq": "",
             "plaintext": "Grants bonus health to nearby Siege Weapons",
             "consumed": true,
@@ -8851,7 +8851,7 @@
             }
         },
         "3648": {
-            "name": "Siege Warp (Inactive)",
+            "name": "Siege Teleport (Inactive)",
             "description": "",
             "colloq": "",
             "plaintext": "",
@@ -8885,7 +8885,7 @@
         },
         "3649": {
             "name": "Siege Sight Warder",
-            "description": "<game_item_description_3649>",
+            "description": "<groupLimit>Limited to 1 Trinket.</groupLimit><br><br><active>Active:</active> Places a <font color='#FFFFFF'>Stealth Ward</font> that lasts <font color='#FFFFFF'>30</font> seconds (30 second cooldown).",
             "colloq": "",
             "plaintext": "",
             "inStore": false,
