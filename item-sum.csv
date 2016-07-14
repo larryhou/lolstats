@@ -1,0 +1,808 @@
+name,gold,tags,description
+"Boots of Speed",300,"Boots","Limited to 1.
+UNIQUE Passive -Enhanced Movement: +25 Movement Speed"
+"Faerie Charm",125,"ManaRegen","+25% Base Mana Regen "
+"Rejuvenation Bead",150,"HealthRegen","+50% Base Health Regen "
+"Giant's Belt",1000,"Health","+380 Health"
+"Cloak of Agility",800,"CriticalStrike","+20% Critical Strike Chance"
+"Blasting Wand",850,"SpellDamage","+40 Ability Power"
+"Sapphire Crystal",350,"Mana","+250 Mana"
+"Ruby Crystal",400,"Health","+150 Health"
+"Cloth Armor",300,"Armor","+15 Armor"
+"Chain Vest",800,"Armor","+40 Armor"
+"Null-Magic Mantle",450,"SpellBlock","+25 Magic Resist"
+"Long Sword",350,"Damage,Lane","+10 Attack Damage"
+"Pickaxe",875,"Damage","+25 Attack Damage"
+"B. F. Sword",1300,"Damage","+40 Attack Damage"
+"Hunter's Talisman",350,"Jungle,LifeSteal,ManaRegen,OnHit","+150% Base Mana Regen while in Jungle  
+UNIQUE Passive -Tooth: Damaging a monster with a spell or attack  steals 25 Health over 5 seconds. Killing monsters grants special bonus experience."
+"Hunter's Machete",350,"Jungle,LifeSteal,OnHit","+8% Life Steal vs. Monsters
+UNIQUE Passive -Nail: Basic attacks deal 20 bonus damage on hit vs. Monsters. Killing monsters grants special bonus experience."
+"Dagger",300,"AttackSpeed","+12% Attack Speed"
+"Recurve Bow",1000,"AttackSpeed,OnHit","+25% Attack Speed
+UNIQUE Passive: Basic attacks deal an additional 15 physical damage on hit."
+"Brawler's Gloves",400,"CriticalStrike","+10% Critical Strike Chance"
+"Amplifying Tome",435,"SpellDamage","+20 Ability Power"
+"Vampiric Scepter",900,"Damage,LifeSteal","+15 Attack Damage
++10% Life Steal"
+"Doran's Shield",450,"Health,HealthRegen,Lane","+80 Health
+Passive: Restores 6 Health every 5 seconds.
+UNIQUE Passive: Blocks 8 damage from single target attacks and spells from champions."
+"Doran's Blade",450,"Damage,Health,Lane,LifeSteal","+8 Attack Damage
++80 Health
++3% Life Steal"
+"Doran's Ring",400,"Health,Lane,ManaRegen,SpellDamage","+60 Health
++15 Ability Power
++50% Base Mana Regen 
+Passive: Restores 4 Mana upon killing a unit."
+"Negatron Cloak",720,"SpellBlock","+40 Magic Resist"
+"Needlessly Large Rod",1250,"SpellDamage","+60 Ability Power"
+"The Dark Seal",350,"HealthRegen,Lane,Mana,SpellDamage","+15 Ability Power
++25% Increased Healing from Potions
++100 Mana
+UNIQUE Passive -Dread: Grants +3 Ability Power per Glory.  
+UNIQUE Passive -Do or Die: Grants 2 Glory for a champion kill or 1 Glory for an assist, up to 10 Glory total. Lose 4 Glory on death."
+"Cull",450,"Damage,Lane,LifeSteal","+7 Attack Damage
++3 Life on Hit
+UNIQUE Passive: Killing a lane minion grants 1 additional Gold. Killing 100 lane minions grants an additional 350 bonus gold immediately and disables this passive."
+"Enchantment: Warrior",2625,"","+60 Attack Damage
++10% Cooldown Reduction"
+"Enchantment: Cinderhulk",2625,"","+400 Health
++15% Bonus Health
+UNIQUE Passive -Immolate: Deals 7 (+2 per champion level) magic damage a second to nearby enemies while in combat. Deals 100% bonus damage to monsters. "
+"Enchantment: Runic Echoes",2625,"","+60 Ability Power
++7% Movement Speed
+UNIQUE Passive -Echo: Gain charges upon moving or casting. At 100 charges, the next damaging spell hit expends all charges to deal 60 (+10% of Ability Power) bonus magic damage to up to 4 targets on hit.
+This effect deals 250% damage to Large Monsters. Hitting a Large Monster with this effect will restore 18% of your missing Mana."
+"Enchantment: Warrior",2625,"","+60 Attack Damage
++10% Cooldown Reduction"
+"Enchantment: Cinderhulk",2625,"","+400 Health
++15% Bonus Health
+UNIQUE Passive -Immolate: Deals 7 (+2 per champion level) magic damage a second to nearby enemies while in combat. Deals 100% bonus damage to monsters. "
+"Enchantment: Runic Echoes",2625,"","+60 Ability Power
++7% Movement Speed
+UNIQUE Passive -Echo: Gain charges upon moving or casting. At 100 charges, the next damaging spell hit expends all charges to deal 60 (+10% of Ability Power) bonus magic damage to up to 4 targets on hit.
+This effect deals 250% damage to Large Monsters. Hitting a Large Monster with this effect will restore 18% of your missing Mana."
+"Enchantment: Warrior",2625,"","+60 Attack Damage
++10% Cooldown Reduction"
+"Enchantment: Cinderhulk",2625,"","+400 Health
++15% Bonus Health
+UNIQUE Passive -Immolate: Deals 7 (+2 per champion level) magic damage a second to nearby enemies while in combat. Deals 100% bonus damage to monsters. "
+"Enchantment: Runic Echoes",2625,"","+60 Ability Power
++7% Movement Speed
+UNIQUE Passive -Echo: Gain charges upon moving or casting. At 100 charges, the next damaging spell hit expends all charges to deal 60 (+10% of Ability Power) bonus magic damage to up to 4 targets on hit.
+This effect deals 250% damage to Large Monsters. Hitting a Large Monster with this effect will restore 18% of your missing Mana."
+"Enchantment: Bloodrazor",2625,"","+50% Attack Speed
+UNIQUE Passive: Basic attacks deal 4% of the target's maximum Health in bonus physical damage (max 75 vs. monsters and minions) on hit."
+"Enchantment: Bloodrazor",2625,"","+50% Attack Speed
+UNIQUE Passive: Basic attacks deal 4% of the target's maximum Health in bonus physical damage (max 75 vs. monsters and minions) on hit."
+"Enchantment: Bloodrazor",2625,"","+50% Attack Speed
+UNIQUE Passive: Basic attacks deal 4% of the target's maximum Health in bonus physical damage (max 75 vs. monsters and minions) on hit."
+"Health Potion",50,"Consumable,Jungle,Lane","Limited to 5 at one time. Limited to 1 type of Healing Potion.
+Click to Consume: Restores 150 Health over 15 seconds."
+"Total Biscuit of Rejuvenation",0,"","Click to Consume: Restores 80 Health and 50 Mana over 10 seconds."
+"Total Biscuit of Rejuvenation",50,"","Click to Consume: Restores 15 health and 15 mana immediately and then 150 Health over 15 seconds."
+"Kircheis Shard",750,"AttackSpeed,OnHit","+15% Attack Speed
+Passive: Moving and attacking will make an attack Energized.
+UNIQUE Passive -Energized Strike: Your Energized attacks deal 40 bonus magic damage on hit."
+"Refillable Potion",150,"Active,Consumable,HealthRegen,Jungle,Lane","Limited to 1 type of Healing Potion.
+UNIQUE Active: Consumes a charge to restore 125 Health over 12 seconds. Holds up to 2 charges and refills upon visiting the shop."
+"Hunter's Potion",400,"Active,Consumable,HealthRegen,Jungle,ManaRegen","Limited to 1 type of Healing Potion.
+UNIQUE Active: Consumes a charge to restore 60 Health and 35 Mana over 8 seconds. Holds up to 5 charges and refills upon visiting the shop.
+Killing a Large Monster grants 1 charge.
+(Killing a Large Monster at full charges will automatically consume the newest charge.)"
+"Corrupting Potion",500,"Active,Consumable,HealthRegen,Lane,ManaRegen","Limited to 1 type of Healing Potion.
+UNIQUE Active: Consumes a charge to restore 125 Health and 75 Mana over 12 seconds and grants Touch of Corruption during that time. Holds up to 3 charges that refills upon visiting the shop.
+Touch of Corruption: Damaging spells and attacks burn enemy champions for 15 -30 magic damage over 3 seconds. (Half Damage for Area of Effect or Damage over Time spells. Damage increases with champion level.)
+(Corrupting Potion can be used even at full Health and Mana.)"
+"Vision Ward",75,"Consumable,Lane,Stealth,Vision","Can only carry 2 Vision Wards in inventory.
+Click to Consume: Places a visible ward that reveals the surrounding area and invisible units in the area until killed. Limit 1 Vision Ward on the map per player.
+(Revealing a ward in this manner grants a portion of the gold reward when that unit is killed.)"
+"Ruby Sightstone",1600,"Active,Health,Vision","+500 Health
+UNIQUE Passive: Item Active cooldowns are reduced by 20%.
+UNIQUE Active -Warding: Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges and refills when visiting the shop.
+(A player may only have 3 Stealth Wards on the map at one time. Unique Passives with the same name don't stack.)"
+"Oracle's Extract",300,"Consumable,Stealth,Vision","Click to Consume: Grants detection of nearby invisible units for 5 minutes."
+"Sightstone",800,"Active,Health,Vision","+150 Health
+UNIQUE Active -Warding: Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds.  Holds up to 3 charges which refill upon visiting the shop. 
+(A player may only have 3 Stealth Wards on the map at one time. Unique Passives with the same name don't stack.)"
+"Explorer's Ward",0,"Consumable","Click to Consume: Places an invisible ward that reveals the surrounding area for 60 seconds."
+"Guardian's Horn",950,"Health,HealthRegen","+150 Health
+Passive: Restores 20 Health every 5 seconds.
+UNIQUE Passive: Blocks 12 damage from attacks and spells from champions (25% effectiveness vs. damage over time abilities).
+Limited to 1 Guardian's Item."
+"Poro-Snax",0,"","This savory blend of free-range, grass-fed Avarosan game hens and organic, non-ZMO Freljordian herbs contains the essential nutrients necessary to keep your Poro purring with pleasure.
+All proceeds will be donated towards fighting Noxian animal cruelty."
+"Raptor Cloak",1200,"Armor,HealthRegen,NonbootsMovement","+40 Armor
++125% Base Health Regen 
+UNIQUE Passive -Point Runner: Builds up to +20% Movement Speed over 2 seconds while near turrets, fallen turrets and Void Gates."
+"Diet Poro-Snax",0,"","All the flavor of regular Poro-Snax, without the calories! Keeps your Poro happy AND healthy.
+Click to Consume: Gives your Poros a delicious healthy treat."
+"Elixir of Iron",500,"Consumable,Health,NonbootsMovement,Tenacity","Level 9 required to purchase.
+Click to Consume: Grants +300 Health, 25% Tenacity, increased champion size, and Path of Iron for 3 minutes.
+Path of Iron: Moving leaves a path behind that boosts allied champion's Movement Speed by 15%.
+(Only one Elixir effect may be active at a time.)"
+"Elixir of Sorcery",500,"Consumable,ManaRegen,SpellDamage","Level 9 required to purchase.
+Click to Consume: Grants +50 Ability Power, 15 bonus Mana Regen per 5 seconds and Sorcery for 3 minutes. 
+Sorcery: Damaging a champion or turret deals 25 bonus True Damage. This effect has a 5 second cooldown versus champions but no cooldown versus turrets.
+(Only one Elixir effect may be active at a time.)
+"
+"Elixir of Wrath",500,"Consumable,Damage,LifeSteal,SpellVamp","Level 9 required to purchase.
+Click to Consume: Grants +30 Attack Damage and Bloodlust for 3 minutes.
+Bloodlust: Dealing physical damage to champions heals for 15% of the damage dealt.
+(Only one Elixir effect may be active at a time.)"
+"Eye of the Watchers",2200,"Active,CooldownReduction,GoldPer,Health,ManaRegen,SpellDamage,Vision","+200 Health
++100% Base Mana Regen 
++25 Ability Power
++10% Cooldown Reduction
++2 Gold per 10 seconds
+UNIQUE Passive -Tribute: Spells and basic attacks against champions or buildings deal 15 additional damage and grant 15 Gold. This can occur up to 3 times every 30 seconds.
+UNIQUE Active -Warding: Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges which refill upon visiting the shop. 
+Limited to 1 Gold Income Item.
+(A player may only have 3 Stealth Wards on the map at one time. Unique Passives with the same name don't stack.)"
+"Eye of the Oasis",2200,"Active,CooldownReduction,GoldPer,Health,HealthRegen,ManaRegen,Vision","+200 Health
++150% Base Health Regen 
++100% Base Mana Regen 
++10% Cooldown Reduction
+UNIQUE Passive -Favor: Being near a minion's death without dealing the killing blow grants 6 Gold and 10 Health.
+UNIQUE Active -Warding: Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges which refill upon visiting the shop.
+Limited to 1 Gold Income Item.
+(A player may only have 3 Stealth Wards on the map at one time. Unique Passives with the same name don't stack.)"
+"Eye of the Equinox",2200,"Active,GoldPer,Health,HealthRegen,Vision","+500 Health
++100% Base Health Regen 
++2 Gold per 10 seconds
+UNIQUE Passive -Spoils of War: Melee basic attacks execute minions below 320 (+20 per level) Health. Killing a minion heals the owner and the nearest allied champion for 50 Health and grants them kill Gold. These effects require a nearby ally. Recharges every 30 seconds. Max 4 charges.
+UNIQUE Active -Warding: Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 4 charges which refill upon visiting the shop.
+Limited to 1 Gold Income Item.
+(A player may only have 3 Stealth Wards on the map at one time. Unique Passives with the same name don't stack.)"
+"Abyssal Scepter",2750,"Aura,CooldownReduction,MagicPenetration,SpellBlock,SpellDamage","+60 Ability Power
++60 Magic Resist
++10% Cooldown Reduction
+UNIQUE Aura: Reduces the Magic Resist of nearby enemy champions by 10 -25."
+"Archangel's Staff",3100,"Mana,ManaRegen,SpellDamage","+80 Ability Power
++250 Mana
+UNIQUE Passive -Awe: Grants Ability Power equal to 3% of maximum Mana. Refunds 25% of Mana spent.
+UNIQUE Passive -Mana Charge: Grants +8 maximum Mana (max +750 Mana) for each spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).
+Transforms into Seraph's Embrace at +750 Mana."
+"Manamune",2400,"Damage,Mana,ManaRegen,OnHit","+25 Attack Damage
++250 Mana
+UNIQUE Passive -Awe: Grants bonus Attack Damage equal to 2% of maximum Mana. Refunds 15% of Mana spent.
+UNIQUE Passive -Mana Charge: Grants +4 maximum Mana (max +750 Mana) for each basic attack, spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).
+Transforms into Muramana at +750 Mana."
+"Berserker's Greaves",1100,"AttackSpeed,Boots"," +35% Attack Speed
+UNIQUE Passive -Enhanced Movement: +45 Movement Speed"
+"Archangel's Staff (Crystal Scar)",3100,"Mana,ManaRegen,SpellDamage","+80 Ability Power
++250 Mana
+UNIQUE Passive -Awe: Grants Ability Power equal to 3% of maximum Mana. Refunds 25% of Mana spent. 
+UNIQUE Passive -Mana Charge: Grants +12 maximum Mana (max +750 Mana) for each spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).
+Transforms into Seraph's Embrace at +750 Mana."
+"Manamune (Crystal Scar)",2400,"Damage,Mana,ManaRegen,OnHit","+25 Attack Damage
++250 Mana
+UNIQUE Passive -Awe: Grants bonus Attack Damage equal to 2% of maximum Mana. Refunds 15% of Mana spent.
+UNIQUE Passive -Mana Charge: Grants +6 maximum Mana (max +750 Mana) for each basic attack, spell cast or Mana expenditure (occurs up to 2 times every 8 seconds).
+Transforms into Muramana at +750 Mana."
+"Boots of Swiftness",900,"Boots","UNIQUE Passive -Enhanced Movement: +55 Movement Speed
+UNIQUE Passive -Slow Resist: Movement slowing effects are reduced by 25%."
+"Catalyst of Aeons",1100,"Health,HealthRegen,Mana,ManaRegen","+225 Health
++300 Mana
+UNIQUE Passive -Eternity: 15% of damage taken from champions is gained as Mana. 
+Spending Mana restores 20% of the cost as Health, up to 15 per spell cast.  
+(Toggled Spells heal for a maximum of 15 per second.)"
+"Sorcerer's Shoes",1100,"Boots,MagicPenetration","+15 Magic Penetration
+UNIQUE Passive -Enhanced Movement: +45 Movement Speed"
+"Frozen Mallet",3100,"Damage,Health,OnHit,Slow","+650 Health
++40 Attack Damage
+UNIQUE Passive -Icy: Basic attacks slow the target's Movement Speed for 1.5 seconds on hit (40% slow for melee attacks, 30% slow for ranged attacks)."
+"Glacial Shroud",1000,"Armor,CooldownReduction,Mana","+25 Armor
++250 Mana
+UNIQUE Passive: +10% Cooldown Reduction"
+"Iceborn Gauntlet",2700,"Armor,CooldownReduction,Mana,Slow","+65 Armor
++20% Cooldown Reduction
++500 Mana
+UNIQUE Passive -Spellblade: After using an ability, the next basic attack deals bonus physical damage equal to 100% of base Attack Damage in an area and creates an icy zone for 2 seconds that slows Movement Speed by 30% (1.5 second cooldown).
+Size of zone increases with bonus armor."
+"Guardian Angel",2400,"Armor,SpellBlock","+60 Armor
++45 Magic Resist
+UNIQUE Passive: Upon taking lethal damage, restores the greater of 700 Health or 30% of maximum Health and 30% of maximum Mana after 4 seconds of stasis (300 second cooldown)."
+"Rod of Ages",2700,"Health,HealthRegen,Mana,ManaRegen,SpellDamage","+300 Health
++300 Mana
++60 Ability Power
+Passive: Grants +20 Health, +10 Mana, and +4 Ability Power per stack (max +200 Health, +100 Mana, and +40 Ability Power). Grants 1 stack per minute (max 10 stacks).
+UNIQUE Passive -Eternity: 15% of damage taken from champions is gained as Mana. Spending Mana restores 20% of the cost as Health, up to 25 per spell cast."
+"Chalice of Harmony",900,"HealthRegen,ManaRegen,SpellBlock","+25 Magic Resist
++50% Base Mana Regen 
+UNIQUE Passive: Increases Base Health Regeneration by 100% if current Health % is lower than current Mana %.  
+Increases Base Mana Regeneration by 100% if current Mana % is lower than current Health %."
+"Rod of Ages (Crystal Scar)",2700,"Health,HealthRegen,Mana,ManaRegen,SpellDamage","+300 Health
++300 Mana
++60 Ability Power
+Passive: Grants +20 Health, +10 Mana, and +4 Ability Power per stack (max +200 Health, +100 Mana, and +40 Ability Power). Grants 1 stack per 40 seconds (max 10 stacks).
+UNIQUE Passive -Eternity: 15% of damage taken from champions is gained as Mana. Spending Mana restores 20% of the cost as Health, up to 25 per spell cast."
+"Hextech GLP-800",3000,"Active,Health,HealthRegen,Mana,ManaRegen,SpellDamage","+300 Health
++400 Mana
++80 Ability Power
+UNIQUE Passive -Eternity: 15% of damage taken from champions is gained as Mana. Spending Mana restores 20% of the cost as Health, up to 25 per spell cast.
+UNIQUE Active -Frost Bolt: Fires a spray of icy bolts that explode, dealing 100 -200 (+35% of your Ability Power) magic damage to all enemies hit. (40 second cooldown, shared with other Hextech items).
+Enemies hit are slowed by 65% decaying over 0.5 seconds.
+(Frost Bolt has a cast time, in contrast to most actives.) "
+"Infinity Edge",3600,"CriticalStrike,Damage","+70 Attack Damage
++20% Critical Strike Chance
+UNIQUE Passive: Critical strike bonus damage is increased by 50%."
+"Mortal Reminder",2700,"ArmorPenetration,Damage","+50 Attack Damage
+UNIQUE Passive -Executioner: Physical damage inflicts Grievous Wounds on enemy champions for 5 seconds.
+UNIQUE Passive -Last Whisper: +45% Bonus Armor Penetration."
+"Giant Slayer",1000,"Damage","+10 Attack Damage
+UNIQUE Passive -Giant Slayer: Grants up to +10% physical damage against enemy champions with greater maximum Health than you (+1% damage per 50 Health difference, maxing at 500 Health difference).
+(Unique Passives with the same name don't stack.)"
+"Last Whisper",1300,"ArmorPenetration,Damage","+25 Attack Damage
+UNIQUE Passive -Last Whisper: +30% Bonus Armor Penetration"
+"Lord Dominik's Regards",2700,"ArmorPenetration,Damage","+50 Attack Damage
+UNIQUE Passive -Giant Slayer: Grants up to +15% physical damage against enemy champions with greater maximum Health than you (+1.5% damage per 50 Health difference, maxing at 500 Health difference).
+UNIQUE Passive -Last Whisper: +45% Bonus Armor Penetration"
+"Seraph's Embrace",3100,"Active","+80 Ability Power
++1000 Mana
+UNIQUE Passive -Awe: Grants Ability Power equal to 3% of maximum Mana. Refunds 25% of Mana spent.
+UNIQUE Active -Mana Shield: Consumes 20% of current Mana to grant a shield for 3 seconds that absorbs damage equal to 150 plus the amount of Mana consumed (120 second cooldown)."
+"Mejai's Soulstealer",1400,"Mana,SpellDamage","+20 Ability Power
++200 Mana
+UNIQUE Passive -Dread: Grants +5 Ability Power per Glory. Grants 10% Movement Speed if you have at least 15 Glory.
+UNIQUE Passive -Do or Die: Grants 4 Glory for a champion kill or 2 Glory for an assist, up to 25 Glory total. Lose 10 stacks of Glory upon dying."
+"Muramana",2400,"OnHit","+25 Attack Damage
++1000 Mana
+UNIQUE Passive -Awe: Grants bonus Attack Damage equal to 2% of maximum Mana. Refunds 15% of Mana spent.
+UNIQUE Passive -Shock: Single target spells and attacks (on hit) on Champions consume 3% of current Mana to deal bonus physical damage equal to twice the amount of Mana consumed.
+This effect only activates while you have greater than 20% maximum Mana."
+"Muramana",2400,"OnHit","+25 Attack Damage
++1000 Mana
+UNIQUE Passive -Awe: Grants bonus Attack Damage equal to 2% of maximum Mana. Refunds 15% of Mana spent.
+UNIQUE Passive -Shock: Single target spells and attacks (on hit) on Champions consume 3% of current Mana to deal bonus physical damage equal to twice the amount of Mana consumed.
+This effect only activates while you have greater than 20% maximum Mana."
+"Phage",1250,"Damage,Health,NonbootsMovement,OnHit","+200 Health
++15 Attack Damage
+UNIQUE Passive -Rage: Basic attacks grant 20 Movement Speed for 2 seconds. Kills grant 60 Movement Speed instead. This Movement Speed bonus is halved for ranged champions."
+"Phantom Dancer",2550,"AttackSpeed,CriticalStrike,NonbootsMovement","+45% Attack Speed
++30% Critical Strike Chance
++5% Movement Speed
+UNIQUE Passive -Spectral Waltz: While within 550 units of an enemy champion you can see, +7% Movement Speed and you can move through units.
+UNIQUE Passive -Lament: The last champion hit deals 12% less damage to you (ends after 10 seconds of not hitting)."
+"Ninja Tabi",1100,"Armor,Boots","+30 Armor
+UNIQUE Passive: Blocks 12% of the damage from basic attacks.
+UNIQUE Passive -Enhanced Movement: +45 Movement Speed"
+"Seraph's Embrace",3100,"Active","+80 Ability Power
++1000 Mana
+UNIQUE Passive -Awe: Grants Ability Power equal to 3% of maximum Mana. Refunds 25% of Mana spent.
+UNIQUE Active -Mana Shield: Consumes 20% of current Mana to grant a shield for 3 seconds that absorbs damage equal to 150 plus the amount of Mana consumed (120 second cooldown)."
+"Zeke's Harbinger",2350,"Active,Armor,Aura,CooldownReduction,Mana,SpellDamage","+250 Mana
++30 Armor
++50 Ability Power
++10% Cooldown Reduction
+UNIQUE Active -Conduit: Bind to target ally (60 second cooldown).
+UNIQUE Passive: When within 1000 units of each other, you and your ally generate Charges. Attacking or casting spells generates extra Charges. At 100 Charges, causing damage consumes them, increasing your and your ally's Ability Power by 20% and Critical Strike Chance by 50% for 8 seconds. "
+"Jaurim's Fist",1200,"Damage,Health","+15 Attack Damage
++150 Health
+UNIQUE Passive: Killing a unit grants 5 maximum Health. This bonus stacks up to 30 times."
+"Sterak's Gage",2700,"Damage,Health","+400 Health
++25% Base Attack Damage 
+UNIQUE Passive -Lifeline: Upon taking at least 400 to 1800 damage (based on level) within 5 seconds, gain a rapidly decaying Shield for 30% of your maximum Health for 8 seconds (60 second cooldown).
+Sterak's Fury: When Lifeline triggers, grow in size and strength, gaining +25% additional Base Attack Damage."
+"Ohmwrecker",2650,"Active,Armor,CooldownReduction,Health,HealthRegen,NonbootsMovement","+300 Health
++50 Armor
++150% Base Health Regen 
++10% Cooldown Reduction
+UNIQUE Active: Prevents nearby enemy turrets from attacking for 3 seconds (120 second cooldown). This effect cannot be used against the same turret more than once every 8 seconds.
+UNIQUE Passive -Point Runner: Builds up to +20% Movement Speed over 2 seconds while near turrets (including fallen turrets)."
+"Sheen",1050,"CooldownReduction,Mana","+250 Mana
++10% Cooldown Reduction
+UNIQUE Passive -Spellblade: After using an ability, the next basic attack deals bonus physical damage equal to 100% base Attack Damage on hit (1.5 second cooldown)."
+"Banner of Command",3000,"Active,Aura,CooldownReduction,Health,HealthRegen,SpellBlock,SpellDamage","+200 Health
++100% Base Health Regen 
++60 Ability Power
++20 Magic Resist
++10% Cooldown Reduction
+UNIQUE Aura -Legion: Grants nearby allies +15 Magic Resist.
+UNIQUE Active -Promote: Greatly increases the power of a lane minion and grants it immunity to magic damage (120 second cooldown)."
+"Spirit Visage",2800,"CooldownReduction,Health,HealthRegen,SpellBlock","+500 Health
++55 Magic Resist
++200% Base Health Regen 
++10% Cooldown Reduction
+UNIQUE Passive: Increases all healing received by 25%."
+"Kindlegem",800,"CooldownReduction,Health","+200 Health  
+UNIQUE Passive: +10% Cooldown Reduction"
+"Sunfire Cape",2900,"Armor,Health","+500 Health
++50 Armor  
+UNIQUE Passive -Immolate: Deals 25 (+1 per champion level) magic damage per second to nearby enemies. Deals 50% bonus damage to minions and monsters."
+"Talisman of Ascension",2500,"Active,Armor,CooldownReduction,GoldPer,HealthRegen,ManaRegen,NonbootsMovement","+45 Armor
++150% Base Health Regen 
++75% Base Mana Regen 
++10% Cooldown Reduction
+UNIQUE Passive -Point Runner: Builds up to +20% Movement Speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+UNIQUE Passive -Favor: Being near a minion's death without dealing the killing blow grants 6 Gold and 10 Health.
+UNIQUE Active: Grants nearby allies +40% Movement Speed for 3 seconds (60 second cooldown).
+Limited to 1 Gold Income Item.
+''Praise the sun.'' -Historian Shurelya, 22 September, 25 CLE"
+"Tear of the Goddess",750,"Mana,ManaRegen","+250 Mana
+UNIQUE Passive -Awe: Refunds 15% of Mana spent.
+UNIQUE Passive -Mana Charge: Grants 4 maximum Mana on spell cast or Mana expenditure (up to 2 times per 8 seconds).
+Caps at +750 Mana."
+"The Black Cleaver",3100,"ArmorPenetration,CooldownReduction,Damage,Health,NonbootsMovement,OnHit","+300 Health
++50 Attack Damage
++20% Cooldown Reduction
+UNIQUE Passive: Dealing physical damage to an enemy champion Cleaves them, reducing their Armor by 5% for 6 seconds (stacks up to 6 times, up to 30%).
+UNIQUE Passive -Rage: Dealing physical damage grants 20 movement speed for 2 seconds. Assists on Cleaved enemy champions or kills on any unit grant 60 movement speed for 2 seconds instead. This Movement Speed is halved for ranged champions."
+"The Bloodthirster",3700,"Damage,LifeSteal","+75 Attack Damage
+UNIQUE Passive: +20% Life Steal
+UNIQUE Passive: Your basic attacks can now overheal you. Excess life is stored as a shield that can block 50-350 damage, based on champion level.
+This shield decays slowly if you haven't dealt or taken damage in the last 25 seconds."
+"Tear of the Goddess (Crystal Scar)",750,"Mana,ManaRegen","+250 Mana
+UNIQUE Passive -Awe: Refunds 15% of Mana spent.
+UNIQUE Passive -Mana Charge: Grants 6 maximum Mana on spell cast or Mana expenditure (up to 2 times per 8 seconds).
+Caps at +750 Mana."
+"Ravenous Hydra",3500,"Active,Damage,HealthRegen,LifeSteal,OnHit","+75 Attack Damage
++100% Base Health Regen 
++12% Life Steal
+Passive: 50% of total Life Steal applies to damage dealt by this item.
+UNIQUE Passive -Cleave: Basic attacks deal 20% to 60% of total Attack Damage as bonus physical damage to enemies near the target on hit (enemies closest to the target take the most damage).
+UNIQUE Active -Crescent: Deals 60% to 100% of total Attack Damage as physical damage to nearby enemy units (closest enemies take the most damage) (10 second cooldown)."
+"Thornmail",2350,"Armor","+100 Armor  
+UNIQUE Passive: Upon being hit by a basic attack, reflects magic damage back to the attacker equal to 25% of your bonus Armor plus 15% of the incoming damage.
+(Bonus Armor is Armor from items, buffs, runes and masteries.)
+(Reflect damage is calculated based on damage taken before being reduced by Armor.)"
+"Tiamat",1200,"Active,Damage,HealthRegen","+20 Attack Damage
++50% Base Health Regen 
+UNIQUE Passive -Cleave: Basic attacks deal 20% to 60% of total Attack Damage as bonus physical damage to enemies near the target on hit (enemies closest to the target take the most damage).
+UNIQUE Active -Crescent: Deals 60% to 100% of total Attack Damage as physical damage to nearby enemy units (enemies closest to the target take the most damage) (10 second cooldown)."
+"Trinity Force",3733,"AttackSpeed,CooldownReduction,Damage,Health,Mana,NonbootsMovement,OnHit","+250 Health
++250 Mana
++25 Attack Damage
++40% Attack Speed
++20% Cooldown Reduction
++5% Movement Speed
+UNIQUE Passive -Rage: Basic attacks grant 20 Movement Speed for 2 seconds. Kills grant 60 Movement Speed instead. This Movement Speed bonus is halved for ranged champions.
+UNIQUE Passive -Spellblade: After using an ability, the next basic attack deals bonus physical damage equal to 200% of base Attack Damage on hit (1.5 second cooldown)."
+"Warden's Mail",1000,"Armor,Slow","+40 Armor
+UNIQUE Passive -Cold Steel: When hit by basic attacks, reduces the attacker's Attack Speed by 15% for 1 seconds."
+"Warmog's Armor",2850,"CooldownReduction,Health,HealthRegen","+800 Health
++200% Base Health Regen 
+UNIQUE Passive: +10% Cooldown Reduction
+UNIQUE Passive: Grants Warmog's Heart if you have at least 3000 maximum Health.
+Warmog's Heart: Restores 15% of maximum Health every 5 seconds if damage hasn't been taken within 8 seconds. "
+"Overlord's Bloodmail",2550,"Health,HealthRegen","+800 Health
++100% Base Health Regen 
+UNIQUE Passive: Upon champion kill or assist, restores 300 Health over 5 seconds."
+"Runaan's Hurricane",2600,"AttackSpeed,CriticalStrike,NonbootsMovement,OnHit","+40% Attack Speed
++30% Critical Strike Chance
++7% Movement Speed
+UNIQUE Passive -Wind's Fury: When basic attacking, bolts are fired at up to 2 enemies near the target, each dealing (25% of Attack Damage) physical damage. Bolts can critically strike and apply on hit effects.
+UNIQUE Passive: Basic attacks deal an additional 15 physical damage on hit."
+"Zeal",1300,"AttackSpeed,CriticalStrike,NonbootsMovement","+15% Attack Speed
++20% Critical Strike Chance
+UNIQUE Passive: +5% Movement Speed"
+"Statikk Shiv",2600,"AttackSpeed,CriticalStrike,NonbootsMovement,OnHit","+35% Attack Speed
++30% Critical Strike Chance
++5% Movement Speed
+Passive: Moving and attacking will make an attack Energized.
+UNIQUE Passive -Shiv Lightning: Your Energized attacks deal 50~120 bonus magic damage (based on level) to up to 5 targets on hit (deals +120% bonus damage to minions and can critically strike)."
+"Rabadon's Deathcap",3800,"SpellDamage","+120 Ability Power  
+UNIQUE Passive: Increases Ability Power by 35%."
+"Wooglet's Witchcap",3500,"Active,Armor,SpellDamage","+100 Ability Power
++45 Armor  
+UNIQUE Passive: Increases Ability Power by 25%
+UNIQUE Active: Champion becomes invulnerable and untargetable for 2.5 seconds, but is unable to move, attack, cast spells, or use items during this time (90 second cooldown)."
+"Wit's End",2500,"AttackSpeed,OnHit,SpellBlock","+40% Attack Speed
++40 Magic Resist
+UNIQUE Passive: Basic attacks deal 40 bonus magic damage on hit.
+UNIQUE Passive: Basic attacks steal 5 Magic Resist from the target on hit (stacks up to 5 times.)"
+"Frost Queen's Claim",2200,"Active,CooldownReduction,GoldPer,ManaRegen,Slow,SpellDamage","+50 Ability Power
++10% Cooldown Reduction
++2 Gold per 10 seconds
++75% Base Mana Regen 
+UNIQUE Passive -Tribute: Spells and basic attacks against champions or buildings deal 15 additional damage and grant 15 Gold. This can occur up to 3 times every 30 seconds.
+UNIQUE Active: Summon 2 icy ghosts for 6 seconds that seek out nearby enemy champions. Ghosts reveal enemies on contact and reduce their Movement Speed by 40% for between 2 and 5 seconds based on how far the ghosts have traveled (90 second cooldown).
+Limited to 1 Gold Income Item."
+"Rapid Firecannon",2600,"AttackSpeed,CriticalStrike,NonbootsMovement,OnHit","+30% Attack Speed
++30% Critical Strike Chance
++5% Movement Speed
+Passive: Moving and attacking will make an attack Energized.
+UNIQUE Passive -Firecannon: Your Energized attacks gain 35% bonus Range (+150 range maximum) and deal 50~160 bonus magic damage (based on level) on hit.
+Energized attacks function on structures."
+"Nomad's Medallion",850,"Active,CooldownReduction,GoldPer,HealthRegen,ManaRegen","+25% Base Health Regen 
++75% Base Mana Regen 
++10% Cooldown Reduction
+UNIQUE Passive -Favor: Being near a minion's death without dealing the killing blow grants 6 Gold and 10 Health.
+Limited to 1 Gold Income Item.
+''The medallion shines with the glory of a thousand voices when exposed to the sun.'' -Historian Shurelya, 22 June, 24 CLE"
+"Targon's Brace",850,"Aura,GoldPer,Health,HealthRegen","+175 Health
++50% Base Health Regen 
++2 Gold per 10 seconds 
+UNIQUE Passive -Spoils of War: Melee basic attacks execute minions below 200 (+10 per level) Health. Killing a minion heals the owner and the nearest allied champion for 40 Health and grants them kill Gold.
+These effects require a nearby ally. Recharges every 30 seconds. Max 3 charges.
+Limited to 1 Gold Income Item."
+"Frostfang",850,"Active,GoldPer,ManaRegen,SpellDamage","+15 Ability Power
++2 Gold per 10 seconds
++75% Base Mana Regen 
+UNIQUE Passive -Tribute: Spells and basic attacks against champions or buildings deal 15 additional damage and grant 15 Gold. This can occur up to 3 times every 30 seconds. Killing a minion disables this passive for 12 seconds.
+Limited to 1 Gold Income Item."
+"Lich Bane",3200,"CooldownReduction,Mana,NonbootsMovement,SpellDamage","+80 Ability Power
++7% Movement Speed
++10% Cooldown Reduction
++250 Mana
+UNIQUE Passive -Spellblade: After using an ability, the next basic attack deals 75% Base Attack Damage (+50% of Ability Power) bonus magic damage on hit (1.5 second cooldown)."
+"Stinger",1100,"AttackSpeed,CooldownReduction","+35% Attack Speed
+UNIQUE Passive: +10% Cooldown Reduction"
+"Banshee's Veil",2450,"Health,HealthRegen,SpellBlock","+300 Health
++70 Magic Resist
++100% Base Health Regeneration 
+UNIQUE Passive: Grants a spell shield that blocks the next enemy ability. This shield refreshes after no damage is taken from enemy champions for 40 seconds."
+"Lord Van Damm's Pillager",3600,"CriticalStrike,Damage","+65 Attack Damage
++30% Critical Strike Chance
+UNIQUE Passive: Critical Strikes cause enemies to bleed for an additional 150% of bonus Attack Damage as magic damage over 3 seconds and reveal them for the duration."
+"Aegis of the Legion",1500,"Aura,Health,HealthRegen,SpellBlock","+200 Health
++100% Base Health Regen 
++20 Magic Resist
+UNIQUE Aura -Legion: Grants nearby allies +10 Magic Resist."
+"Fiendish Codex",900,"CooldownReduction,SpellDamage","+30 Ability Power
+UNIQUE Passive: +10% Cooldown Reduction"
+"Frozen Heart",2800,"Armor,Aura,CooldownReduction,Mana","+90 Armor
++20% Cooldown Reduction
++400 Mana
+UNIQUE Aura: Reduces the Attack Speed of nearby enemies by 15%."
+"Mercury's Treads",1100,"Boots,SpellBlock,Tenacity","+25 Magic Resist
+UNIQUE Passive -Enhanced Movement: +45 Movement Speed
+UNIQUE Passive -Tenacity: Reduces the duration of stuns, slows, taunts, fears, silences, blinds, polymorphs, and immobilizes by 30%."
+"Guardian's Orb",950,"Health,Mana,SpellDamage","+150 Health
++30 Ability Power
++10 Mana regen per 5 seconds
+Limited to 1 Guardian's Item."
+"Aether Wisp",850,"NonbootsMovement,SpellDamage","+30 Ability Power
+UNIQUE Passive: +5% Movement Speed"
+"Forbidden Idol",850,"CooldownReduction,ManaRegen","+50% Base Mana Regen 
+UNIQUE Passive: +10% Cooldown Reduction
+UNIQUE Passive: +10% Heal and Shield Power"
+"Nashor's Tooth",3000,"AttackSpeed,CooldownReduction,OnHit,SpellDamage","+50% Attack Speed
++80 Ability Power
+UNIQUE Passive: +20% Cooldown Reduction
+UNIQUE Passive: Basic attacks deal 15 (+15% of Ability Power) bonus magic damage on hit.
+"
+"Rylai's Crystal Scepter",3200,"Health,Slow,SpellDamage","+400 Health
++100 Ability Power
+UNIQUE Passive: Damaging spells and abilities apply a Movement Speed reduction to enemies based on the spell type:
+Single Target: 40% reduction for 1.5 seconds. 
+Area of Effect: 40% reduction for 1 seconds.
+Damage over Time or Multi-hit: 20% reduction for 1 seconds.
+Summoned Minions: 20% reduction for 1 seconds.
+(If a spell fits in more than one category, it uses the weakest slow value.)"
+"Boots of Mobility",900,"Boots","UNIQUE Passive -Enhanced Movement: +25 Movement Speed. Increases to +115 Movement Speed when out of combat for 5 seconds."
+"Wicked Hatchet",1200,"CriticalStrike,Damage,OnHit","+20 Attack Damage
++10% Critical Strike Chance
+UNIQUE Passive: Critical Strikes cause your target to bleed for an additional 60% of your bonus Attack Damage as magic damage over 3 seconds."
+"Executioner's Calling",800,"Damage","+15 Attack Damage
+UNIQUE Passive -Executioner: Physical damage inflicts Grievous Wounds on enemy champions for 3 seconds."
+"Guinsoo's Rageblade",3600,"AttackSpeed,Damage,OnHit,SpellDamage","+35 Attack Damage
++50 Ability Power
+Passive: Basic attacks deal an additional 15 magic damage on hit.
+UNIQUE Passive: Basic attacks grant +8% Attack Speed, +3 Attack Damage, and +4 Ability Power for 5 seconds (stacks up to 6 times). While you have 6 stacks, gain Guinsoo's Rage.
+Guinsoo's Rage: Every other basic attack will trigger on hit effects an additional time."
+"Caulfield's Warhammer",1100,"CooldownReduction,Damage","+25 Attack Damage
+UNIQUE Passive: +10% Cooldown Reduction"
+"Serrated Dirk",1100,"ArmorPenetration,Damage","+20 Attack Damage
+UNIQUE Passive: +10 Armor Penetration
+UNIQUE Passive: After killing any unit, your next basic attack or single target spell deals +15 damage."
+"Void Staff",2650,"MagicPenetration,SpellDamage","+80 Ability Power
+UNIQUE Passive: +35% Magic Penetration."
+"Haunting Guise",1600,"Health,MagicPenetration,SpellDamage","+25 Ability Power
++200 Health
+UNIQUE Passive -Eyes of Pain: +15 Magic Penetration"
+"Dervish Blade",2700,"Active,AttackSpeed,CooldownReduction,NonbootsMovement,SpellBlock","+50% Attack Speed
++45 Magic Resist
++10% Cooldown Reduction
+UNIQUE Active -Quicksilver: Removes all debuffs, and if the champion is melee, also grants +50% bonus Movement Speed for 1 second (90 second cooldown)."
+"Mercurial Scimitar",3600,"Active,Damage,LifeSteal,NonbootsMovement,SpellBlock","+65 Attack Damage
++35 Magic Resist
++10% Life Steal
+UNIQUE Active -Quicksilver: Removes all crowd control debuffs and also grants +50% bonus Movement Speed for 1 second (90 second cooldown)."
+"Quicksilver Sash",1300,"Active,SpellBlock","+30 Magic Resist
+UNIQUE Active -Quicksilver: Removes all crowd control debuffs (90 second cooldown)."
+"Youmuu's Ghostblade",3200,"Active,ArmorPenetration,AttackSpeed,CooldownReduction,Damage,NonbootsMovement","+60 Attack Damage
++10% Cooldown Reduction
+UNIQUE Passive: +20 Armor Penetration
+UNIQUE Active: Grants +20% Movement Speed and +40% Attack Speed for 6 seconds (45 second cooldown)."
+"Randuin's Omen",2900,"Active,Armor,Health,Slow","+500 Health
++60 Armor
+-10% Damage taken from Critical Strikes
+UNIQUE Passive -Cold Steel: When hit by basic attacks, reduces the attacker's Attack Speed by 15% (1 second duration).
+UNIQUE Active: Slows the Movement Speed of nearby enemy units by 35% for 4 seconds (60 second cooldown)."
+"Bilgewater Cutlass",1500,"Active,Damage,LifeSteal,Slow","+25 Attack Damage
++10% Life Steal
+UNIQUE Active: Deals 100 magic damage and slows the target champion's Movement Speed by 25% for 2 seconds (90 second cooldown)."
+"Hextech Revolver",1050,"SpellDamage","+40 Ability Power
+UNIQUE Passive -Magic Bolt: Damaging an enemy champion with a basic attack shocks them for 75 -150 bonus magic damage (40 second cooldown, shared with other Hextech items).
+Magic Bolt's cooldown is reduced by Active Item cooldown reduction.
+(Damage scales based on level. Hextech effects can trigger other item spell effects.)"
+"Hextech Gunblade",3400,"Active,Damage,LifeSteal,Slow,SpellDamage,SpellVamp","+40 Attack Damage
++80 Ability Power
+UNIQUE Passive: Heal for 15% of damage dealt. This is 33% as effective for Area of Effect damage.
+UNIQUE Active -Lightning Bolt: Deals 250 (+30% of Ability Power) magic damage and slows the target champion's Movement Speed by 40% for 2 seconds (40 second cooldown, shared with other Hextech items)."
+"Duskblade of Draktharr",3250,"ArmorPenetration,Damage,NonbootsMovement,OnHit","+75 Attack Damage
++5% Movement Speed
+UNIQUE Passive: +10 Armor Penetration
+UNIQUE Passive: Basic Attacks on an enemy champion apply Nightfall (120 second cooldown).
+Nightfall: After 2 seconds, deal physical damage equal to 90 plus 25% of the target's missing health. If you get a kill or assist on the target before Nightfall ends, the cooldown is refunded."
+"Liandry's Torment",3200,"Health,MagicPenetration,SpellDamage","+80 Ability Power
++300 Health
+UNIQUE Passive -Eyes of Pain: +15 Magic Penetration
+UNIQUE Passive: Spells burn enemies for 3 seconds, dealing bonus magic damage equal to 2% of their current Health per second. Burn damage is doubled against movement-impaired units."
+"Hextech Protobelt-01",2500,"Active,CooldownReduction,Health,SpellDamage","+300 Health
++60 Ability Power
++10% Cooldown Reduction
+UNIQUE Active -Fire Bolt: Dash forward and unleash a nova of fire bolts that deal 75 -150 (+35% of your Ability Power) as magic damage (40 second cooldown, shared with other Hextech items).
+Champions and Monsters hit by multiple fire bolts take 20% damage per additional bolt.
+(This dash cannot pass through terrain.)"
+"Blade of the Ruined King",3400,"Active,AttackSpeed,Damage,LifeSteal,NonbootsMovement,OnHit","+25 Attack Damage
++40% Attack Speed
++10% Life Steal
+UNIQUE Passive: Basic attacks deal 6% of the target's current Health in bonus physical damage (max 60 vs. monsters and minions) on hit. Life Steal applies to this damage.
+UNIQUE Active: Deals 10% of target champion's maximum Health (min. 100) as physical damage, heals for the same amount, and steals 25% of the target's Movement Speed for 3 seconds (90 second cooldown)."
+"Hexdrinker",1300,"Damage,SpellBlock","+20 Attack Damage
++35 Magic Resist
+UNIQUE Passive -Lifeline: Upon taking magic damage that would reduce Health below 30%, grants a shield that absorbs 110 to 280 (based on level) magic damage for 5 seconds (90 second cooldown)."
+"Maw of Malmortius",3250,"ArmorPenetration,Damage,LifeSteal,SpellBlock,SpellVamp","+55 Attack Damage
++40 Magic Resist
++10 Armor Penetration
+UNIQUE Passive -Lifeline: Upon taking magic damage that would reduce Health below 30%, grants a shield that absorbs magic damage equal to 300 + 1 per bonus Magic Resistance for 5 seconds (90 second cooldown).
+Lifegrip: When Lifeline triggers, gain +10% Spell Vamp and +10% Life Steal until out of combat."
+"Zhonya's Hourglass",2900,"Active,Armor,CooldownReduction,SpellDamage","+70 Ability Power
++45 Armor
++10% Cooldown Reduction
+UNIQUE Active -Stasis: Champion becomes invulnerable and untargetable for 2.5 seconds, but is unable to move, attack, cast spells, or use items during this time (120 second cooldown)."
+"Ionian Boots of Lucidity",900,"Boots,CooldownReduction","UNIQUE Passive: +10% Cooldown Reduction
+UNIQUE Passive -Enhanced Movement: +45 Movement Speed
+UNIQUE Passive: Reduces Summoner Spell cooldowns by 10%
+''This item is dedicated in honor of Ionia's victory over Noxus in the Rematch for the Southern Provinces on 10 December, 20 CLE.''"
+"Morellonomicon",2900,"CooldownReduction,Mana,ManaRegen,SpellDamage","+100 Ability Power
++400 Mana
+UNIQUE Passive: +20% Cooldown Reduction
+UNIQUE Passive: Dealing magic damage to champions below 35% Health inflicts Grievous Wounds for 8 seconds.
+UNIQUE Passive: Kills and Assists restore 20% of your maximum Mana."
+"Moonflair Spellblade",2500,"Armor,SpellBlock,SpellDamage,Tenacity","+50 Ability Power
++50 Armor
++50 Magic Resist
+UNIQUE Passive -Tenacity: Reduces the duration of stuns, slows, taunts, fears, silences, blinds, polymorphs, and immobilizes by 35%."
+"Athene's Unholy Grail",2250,"CooldownReduction,HealthRegen,ManaRegen,SpellBlock,SpellDamage","+40 Ability Power
++25 Magic Resist
++20% Cooldown Reduction
++75% Base Mana Regen 
+UNIQUE Passive: Gain 20% of the premitigation damage dealt to champions as Blood Charges, up to 100 -250  max. Healing or shielding another ally consumes charges to heal them, up to the original effect amount.
+UNIQUE Passive: Increases Base Health Regeneration by 100% if current Health % is lower than current Mana %. Increases Base Mana Regeneration by 100% if current Mana % is lower than current Health %.
+(Maximum amount of Blood Charges stored is based on level. Healing amplification is applied to the total heal value.)"
+"Sanguine Blade",2400,"Damage,LifeSteal","+45 Attack Damage
++10% Life Steal
+UNIQUE Passive: Basic attacks grant +6 Attack Damage and +1% Life Steal for 8 seconds on hit (effect stacks up to 5 times)."
+"Guardian's Hammer",950,"Damage,Health,LifeSteal","+150 Health
++15 Attack Damage
++10% Life Steal
+Limited to 1 Guardian's Item."
+"The Lightbringer",2350,"Active,CriticalStrike,Damage,OnHit,Stealth,Vision","+30 Attack Damage
++30% Critical Strike Chance
+UNIQUE Passive: Critical Strikes cause enemies to bleed for an additional 90% of bonus Attack Damage as magic damage over 3 seconds and reveal them for the duration.
+UNIQUE Passive -Trap Detection: Nearby stealthed enemy traps are revealed.
+UNIQUE Active -Hunter's Sight: A stealth-detecting mist grants vision in the target area for 5 seconds, revealing enemy champions that enter for 3 seconds (60 second cooldown)."
+"Arcane Sweeper",2150,"Active,Armor,CooldownReduction,Health,Mana,Stealth,Vision","+225 Health
++250 Mana
++25 Armor
++20% Cooldown Reduction
+UNIQUE Passive -Trap Detection: Nearby stealthed enemy traps are revealed.
+UNIQUE Active -Hunter's Sight: A stealth-detecting mist grants vision in the target area for 5 seconds, revealing enemy champions that enter for 3 seconds (60 second cooldown)."
+"Locket of the Iron Solari",2500,"Active,Aura,CooldownReduction,Health,HealthRegen,SpellBlock","+400 Health
++100% Base Health Regen 
++20 Magic Resist
++10% Cooldown Reduction
+UNIQUE Active: Grants a shield to nearby allies for 2 seconds that absorbs up to 75 (+15 per level) damage (60 second cooldown).
+UNIQUE Aura -Legion: Grants nearby allies +15 Magic Resist."
+"Seeker's Armguard",1200,"Armor,SpellDamage","+30 Armor
++20 Ability Power
+UNIQUE Passive: Killing a unit grants 0.5 bonus Armor and Ability Power. This bonus stacks up to 30 times."
+"The Hex Core mk-1",1000,"Mana,SpellDamage","+3 Ability Power per level
++15 Mana per level
+UNIQUE Passive -Progress: Viktor can upgrade one of his basic spells."
+"The Hex Core mk-2",2000,"Mana,SpellDamage","+6 Ability Power per level
++20 Mana per level
+UNIQUE Passive -Progress: Viktor can upgrade one of his basic spells."
+"Perfect Hex Core",3000,"Mana,SpellDamage","+10 Ability Power per level
++25 Mana per level
+UNIQUE Passive -Glorious Evolution: Viktor has reached the pinnacle of his power, upgrading Chaos Storm in addition to his basic spells."
+"Prototype Hex Core",0,"","+1 Ability Power per level
++10 Mana per level
+UNIQUE Passive -Progress: This item can be upgraded three times to enhance Viktor's basic abilities."
+"Spectre's Cowl",1200,"Health,HealthRegen,SpellBlock","+250 Health
++30 Magic Resist
+UNIQUE Passive: Grants 150% Base Health Regen for up to 10 seconds after taking damage from an enemy champion."
+"Mikael's Crucible",2400,"Active,CooldownReduction,HealthRegen,ManaRegen,SpellBlock","+35 Magic Resist
++15% Heal and Shield Power
++10% Cooldown Reduction
++150% Base Mana Regen 
+UNIQUE Passive: Increases Base Health Regeneration by 100% if current Health % is lower than current Mana %. Increases Base Mana Regeneration by 100% if current Mana % is lower than current Health %.
+UNIQUE Active: Removes all stuns, roots, taunts, fears, silences, and slows on an allied champion and heals that champion for 150 (+10% of maximum Health) (180 second cooldown)."
+"Luden's Echo",3200,"NonbootsMovement,OnHit,SpellDamage","+100 Ability Power
++10% Movement Speed
+UNIQUE Passive -Echo: Gain charges upon moving or casting. At 100 charges, the next damaging spell hit expends all charges to deal 100 (+10% of Ability Power) bonus magic damage to up to 4 targets on hit."
+"Ancient Coin",350,"CooldownReduction,GoldPer,Lane,ManaRegen","+25% Base Mana Regen 
++5% Cooldown Reduction
+UNIQUE Passive -Favor: Being near a minion's death without dealing the killing blow grants 4 Gold and 5 Health.
+Limited to 1 Gold Income Item.
+''Gold dust rises from the desert and clings to the coin.'' -Historian Shurelya, 11 November, 23 CLE"
+"Relic Shield",350,"Aura,GoldPer,Health,Lane","+75 Health
++2 Gold per 10 seconds 
+UNIQUE Passive -Spoils of War: Melee basic attacks execute minions below 195 (+5 per level) Health. Killing a minion heals the owner and the nearest allied champion for 20 Health and grants them kill Gold.
+These effects require a nearby ally. Recharges every 40 seconds. Max 2 charges. 
+Limited to 1 Gold Income Item."
+"Spellthief's Edge",350,"GoldPer,Lane,ManaRegen,SpellDamage","+5 Ability Power
++2 Gold per 10 seconds
++25% Base Mana Regen 
+UNIQUE Passive -Tribute: Spells and basic attacks against champions or buildings deal 10 additional damage and grant 8 Gold. This can occur up to 3 times every 30 seconds. Killing a minion disables this passive for 12 seconds.
+Limited to 1 Gold Income Item."
+"Warding Totem (Trinket)",0,"Active,Jungle,Lane,Trinket,Vision","Limited to 1 Trinket.
+Active: Consume a charge to place an invisible Stealth Ward which reveals the surrounding area for 60 -120 seconds. 
+Stores one charge every 180 -90 seconds, up to 2 maximum charges.
+Ward duration and recharge time gradually improve with level.
+(Limit 3 Stealth Wards on the map per player. Switching to a Lens type trinket will disable Trinket use for 120 seconds.)"
+"Sweeping Lens (Trinket)",0,"Active,Jungle,Trinket,Vision","Limited to 1 Trinket.
+Active: Scans an area for 6 seconds, warning against hidden hostile units and revealing / disabling invisible traps and wards (90 to 60 second cooldown).
+Cast range and sweep radius gradually improve with level.
+(Switching to a Totem-type trinket will disable Trinket use for 120 seconds.)"
+"Soul Anchor (Trinket)",0,"Active,Trinket,Vision","Limited to 1 Trinket.
+Active: Consumes a charge to instantly revive at your Summoner Platform and grants 125% Movement Speed that decays over 12 seconds.
+Additional charges are gained at levels 9 and 14.
+(Max: 2 charges)
+"
+"Arcane Sweeper",0,"Active,Stealth,Trinket,Vision","UNIQUE Active -Hunter's Sight: A stealth-detecting mist grants vision in the target area for 5 seconds, revealing traps and enemy champions that enter for 3 seconds (90 second cooldown)."
+"Greater Stealth Totem (Trinket)",250,"Active,Trinket,Vision","Limited to 1 Trinket. *Level 9+ required to upgrade.
+UNIQUE Active: Consume a charge to place an invisible ward that reveals the surrounding area for 180 seconds.  Stores a charge every 60 seconds, up to 2 total. Limit 3 Stealth Wards on the map per player.
+(Trinkets cannot be used in the first 30 seconds of a game. Selling a Trinket will disable Trinket use for 120 seconds)."
+"Greater Vision Totem (Trinket)",250,"Active,Trinket,Vision","Limited to 1 Trinket. *Level 9+ required to upgrade.
+UNIQUE Active: Places a visible ward that reveals the surrounding area and invisible units in the area until killed (120 second cooldown). Limit 1 Vision Ward on the map per player.
+(Trinkets cannot be used in the first 30 seconds of a game. Selling a Trinket will disable Trinket use for 120 seconds)."
+"Farsight Alteration",0,"Active,Trinket,Vision","* Level 9+ required to upgrade.
+Alters the Warding Totem Trinket:
++ Massively increased cast range (+650%)
++ Infinite duration and does not count towards ward limit
+- 10% increased cooldown
+- Ward is visible, fragile, untargetable by allies
+- 45% reduced ward vision radius
+- Cannot store charges"
+"Oracle Alteration",0,"Active,Trinket,Vision","* Level 9+ required to upgrade.
+Alters the Sweeping Lens Trinket:
++ Increased detection radius
++ Sweeping effect follows you for 10 seconds
+- Cast range reduced to zero"
+"Face of the Mountain",2200,"Active,CooldownReduction,GoldPer,Health,HealthRegen","+450 Health
++100% Base Health Regen 
++10% Cooldown Reduction
++2 Gold per 10 seconds 
+UNIQUE Passive -Spoils of War: Melee basic attacks execute minions below 320 (+20 per level) Health. Killing a minion heals the owner and the nearest allied champion for 50 Health and grants them kill Gold. These effects require a nearby ally. Recharges every 30 seconds. Max 4 charges.
+UNIQUE Active: Grant a shield to an ally equal to 10% of your maximum Health for 4 seconds. After 4 seconds, the shield explodes to slow nearby enemies by 40% for 2 seconds (60 second cooldown).
+Limited to 1 Gold Income Item."
+"Golden Transcendence",0,"Active,Trinket","Active: Use this trinket to teleport to one of the battle platforms. Can only be used from the summoning platform.
+''It is at this magical precipice where a champion is dismantled, reforged, and empowered.''"
+"Golden Transcendence (Disabled)",0,"Active,Trinket","Active: Use this trinket to teleport to one of the battle platforms. Can only be used from the summoning platform.
+''It is at this magical precipice where a champion is dismantled, reforged, and empowered.''"
+"Seer Stone (Trinket)",0,"Active,Trinket,Vision","Limited to 1 Trinket.
+Active: Reveals a small area within 2500 range for 3 seconds. Enemy champions will be revealed for 5 seconds (60 second cooldown)"
+"Ardent Censer",2400,"CooldownReduction,ManaRegen,NonbootsMovement,SpellDamage","+60 Ability Power
++15% Heal and Shield Power
++10% Cooldown Reduction
++50% Base Mana Regen 
+UNIQUE Passive: +8% Movement Speed
+UNIQUE Passive: Your heals and shields on another allied champion grant them 15% Attack Speed and 30 magic damage on-hit for 6 seconds.
+(This does not include regeneration effects or effects on yourself.)"
+"Essence Reaver",3600,"CooldownReduction,CriticalStrike,Damage,ManaRegen","+70 Attack Damage
++20% Critical Strike Chance
+UNIQUE Passive: +10% Cooldown Reduction.
+UNIQUE Passive: Gain increasingly more Cooldown Reduction from Critical Strike Chance provided by other sources (maximum +20% additional Cooldown Reduction at 30% Critical Strike Chance).
+UNIQUE Passive: Critical strikes restore 3% of your maximum Mana pool."
+"Zz'Rot Portal",2700,"Active,Armor,HealthRegen,NonbootsMovement,SpellBlock","+55 Armor
++55 Magic Resist
++125% Base Health Regen 
+UNIQUE Passive -Point Runner: Builds up to +20% Movement Speed over 2 seconds while near turrets, fallen turrets and Void Gates.
+UNIQUE Active: Spawns a Void Gate for 150 seconds (150 second cooldown).
+Every 4 seconds the gate makes a Voidspawn. The first and every fourth Voidspawn gains 15% of maximum Health as damage."
+"The Black Spear",0,"Active","
+Active: Offer to bind with an ally for the remainder of the game, becoming Oathsworn Allies. Oathsworn empowers you both while near one another."
+"Siege Warp",10,"","Active: Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.
+''Clever flavor is a flavor all its own.''"
+"Siege Ballista",0,"","
+Deploys a ballista that shoots the closest turret.
+Places a long range balista if within 2200 range of an enemy turret. After an 5 second delay, it will begin firing at the nearest enemy turret, dealing heavy damage. If the targeted turret expires, the ballista will as well."
+"",0,"",""
+"Siege Warp",10,"","Active: Use this trinket to teleport to one of your team's port pads. Can only be used from the summoning platform.
+''Clever flavor is a flavor all its own.''"
+"Tower Surge: Beam of Ruination",0,"","
+Attach, then recast to fire a damaging beam from a turret to your cursor
+First Cast: Attach a Slayer Beam to the target turret that can be fired 3 times.
+Next Three Casts: Fires the attached beam towards your cursor, dealing 30/level + 30% of the hit target's maximum health (20% damage to minions) in magic damage to all targets in a line.
+Beam will last 15 seconds, or until it has been fired 3 times."
+"Port Pad",0,"","
+Deploy an additional teleport target.
+Places a port pad at target location. After a 4 second delay, it activates, allowing you or your allies to teleport to it from base."
+"Tower Surge: Firestorm Bulwark",0,"","
+Makes a turret go invulnerable, then rain fire.
+Makes the target turret invulnerable for 6 seconds. Two seconds before expiry, it unleashes a missile volley, dealing 650 true damage over the remaining time to all nearby enemies.
+Cannot be used on the same turret more than once in 15 seconds"
+"",10,"",""
+"Flash Zone",0,"","
+Allows team to cast Flash repeatedly in a limited zone.
+Creates a magic zone for your team for 5 seconds. While in this zone, you and your allies have your summoner spells replaced by an instant cast blink that moves you to any location in the zone (1 second cooldown)"
+"Vanguard Banner",0,"","
+Place a banner that buffs minions.
+Place a Vanguard Banner at target location. After an 2 second delay, any nearby minions will be granted a buff, increasing their damage by 50%, and granting them 50 Armor and 100 Magic Resistance while within range."
+"Siege Refund",0,"","Refunds all purchased Siege Weapons for their full price."
+"Entropy Field",0,"","
+Stun minions and slow champions in an area.
+Places an entropy field at target location for 5 seconds.  Enemy minions and Siege Ballistas trapped in the field are unable to move or attack while in the field.  Enemy champions in the field have their movement speed reduced by 25%."
+"Seer Stone (Trinket)",0,"Active,Trinket,Vision","Limited to 1 Trinket.
+Active: Reveals a small area within 1400 range for 3 seconds. Enemy champions will be revealed for 5 seconds (60 second cooldown)"
+"Shield Totem",0,"","
+Place a totem that shields nearby deployables.
+Places a Shield Totem at target location. After a 2 second delay, the totem will activate, granting a 2 (+1 per additional shield totem) strength shield to all nearby deployables."
+"Siege Warp (Inactive)",0,"",""
+"Siege Sight Warder",0,"",""
+"Enchantment: Warrior",1625,"","+60 Attack Damage
++10% Cooldown Reduction"
+"Enchantment: Cinderhulk",1625,"","+400 Health
++15% Bonus Health
+UNIQUE Passive -Immolate: Deals 7 (+2 per champion level) magic damage a second to nearby enemies while in combat. Deals 100% bonus damage to monsters. "
+"Enchantment: Runic Echoes",1625,"","+60 Ability Power
++7% Movement Speed
+UNIQUE Passive -Echo: Gain charges upon moving or casting. At 100 charges, the next damaging spell hit expends all charges to deal 60 (+10% of Ability Power) bonus magic damage to up to 4 targets on hit.
+This effect deals 250% damage to Large Monsters. Hitting a Large Monster with this effect will restore 18% of your missing Mana."
+"Enchantment: Bloodrazor",1625,"","+50% Attack Speed
+UNIQUE Passive: Basic attacks deal 4% of the target's maximum Health in bonus physical damage (max 75 vs. monsters and minions) on hit."
+"Stalker's Blade",1000,"Jungle,LifeSteal,ManaRegen,NonbootsMovement,OnHit,Slow","Limited to 1 Jungle item
++10% Life Steal vs. Monsters
++180% Base Mana Regen while in Jungle
+UNIQUE Passive -Chilling Smite: Smite can be cast on enemy champions, dealing reduced true damage and stealing 20% Movement Speed for 2 seconds. 
+UNIQUE Passive -Tooth / Nail: Basic attacks deal 20 bonus damage vs. monsters. Damaging a monster with a spell or attack steals 30 Health over 5 seconds. Killing monsters grants special bonus experience."
+"Tracker's Knife",1000,"Active,Jungle,LifeSteal,ManaRegen,OnHit,Vision","Limited to 1 Jungle item
++10% Life Steal vs. Monsters
++180% Base Mana Regen while in Jungle
+UNIQUE Passive -Tooth / Nail: Basic attacks deal 20 bonus damage vs. monsters. Damaging a monster with a spell or attack steals 30 Health over 5 seconds. Killing monsters grants special bonus experience.
+UNIQUE Active -Warding: Consumes a charge to place a Stealth Ward that reveals the surrounding area for 150 seconds. Holds up to 2 charges which refill upon visiting the shop. 
+(A player may only have 3 Stealth Wards on the map at one time. Unique Passives with the same name don't stack.)"
+"Skirmisher's Sabre",1000,"Jungle,LifeSteal,ManaRegen,OnHit","Limited to 1 Jungle item
++10% Life Steal vs. Monsters
++180% Base Mana Regen while in Jungle
+Passive -Challenging Smite: Smite can be cast on enemy champions, marking them for 4 seconds. While marked, basic attacks deal bonus true damage over 3 seconds, you have vision of them, and their damage to you is reduced by 20%.
+UNIQUE Passive -Tooth / Nail: Basic attacks deal 20 bonus damage vs. monsters. Damaging a monster with a spell or attack steals 30 Health over 5 seconds. Killing monsters grants special bonus experience."
+"Dead Man's Plate",2900,"Armor,Bilgewater,Health,NonbootsMovement,OnHit","+500 Health
++50 Armor
+UNIQUE Passive -Dreadnought: While moving, build stacks of Momentum, increasing movement speed by up to 60 at 100 stacks. Momentum quickly decays while under the effects of a stun, taunt, fear, polymorph, or immobilize effect, and slowly decays while slowed.
+UNIQUE Passive -Crushing Blow: Basic attacks discharge all Momentum, dealing 1 physical damage per 2 stacks. If 100 stacks are discharged, damage is doubled and the target is slowed by 50% decaying over 1 second (melee only).
+''There's only one way you'll get this armor from me...'' -forgotten namesake"
+"Titanic Hydra",3500,"Active,Damage,Health,HealthRegen,OnHit","+450 Health
++35 Attack Damage
++100% Base Health Regen 
+UNIQUE Passive -Cleave: Basic attacks deal 5 + 1% of your maximum health as bonus physical damage  to your target and 40 + 2.5% of your maximum health as physical damage  to other enemies in a cone on hit.
+UNIQUE Active -Crescent: Cleave damage to all targets is increased to 40 + 10% of your maximum health as bonus physical damage  in a larger cone for your next basic attack (20 second cooldown).
+(Unique Passives with the same name don't stack.)"
+"Bami's Cinder",1100,"Health","+280 Health  
+UNIQUE Passive -Immolate: Deals 5 (+1 per champion level) magic damage per second to nearby enemies. Deals 50% bonus damage to minions and monsters."
+"Righteous Glory",2500,"Active,Health,HealthRegen,Mana,ManaRegen,NonbootsMovement,Slow","+500 Health
++300 Mana
++100% Base Health Regen 
+UNIQUE Passive -Eternity: 15% of damage taken from champions is gained as Mana. Spending Mana restores 20% of the cost as Health, up to 25 per spell cast.  
+UNIQUE Active: Grants +75% Movement Speed when moving towards enemies or enemy turrets for 4 seconds. After 3 seconds, a shockwave is emitted, slowing nearby enemy champion Movement Speed by 75% for 2 second(s) (90 second cooldown).
+This effect may be reactivated early to instantly release the shockwave."
+"Crystalline Bracer",650,"Health,HealthRegen","+200 Health
++50% Base Health Regen "
+"Lost Chapter",900,"Mana,ManaRegen,SpellDamage","+25 Ability Power
++300 Mana
+UNIQUE Passive: Upon levelling up, restores 20% of your maximum Mana over 3 seconds."
+"Death's Dance",3500,"CooldownReduction,Damage,LifeSteal","+75 Attack Damage
++10% Cooldown Reduction
+UNIQUE Passive: Dealing physical damage heals for 15% of the damage dealt. This is 33% as effective for Area of Effect damage.
+UNIQUE Passive: 15% of damage taken is dealt as a Bleed effect over 3 seconds instead."
+"Fire at Will",0,"","Requires 500 Silver Serpents.
+UNIQUE Passive: Cannon Barrage fires at an increasing rate over time (additional 6 waves over the duration)."
+"Death's Daughter",0,"","Requires 500 Silver Serpents.
+UNIQUE Passive: Cannon Barrage additionally fires a mega-cannonball at center of the Barrage, dealing 300% true damage and slowing them by 60% for 1.5 seconds. "
+"Raise Morale",0,"","Requires 500 Silver Serpents.
+UNIQUE Passive: Allies in the Cannon Barrage gain 30% Movement Speed for 2 seconds."

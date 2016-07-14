@@ -45,3 +45,7 @@ do
 	done < <(echo -e "${stats}\n${effect}"| sed '/^[[:space:]]*$/d')
 	printf '\n'
 done | sed 's/,$//' >> ${file}
+
+file=$(echo ${json} | sed 's/\.json/-sum.csv/')
+echo "name,gold,tags,description" > ${file}
+jq -r '.data|to_entries|map(.value|["\""+.name+"\"",(.gold.total|tostring),"\""+(.tags|join(","))+"\"","\""+.description+"\""]|join(","))|join("\n")' ${json} | sed $'s/<br>/\\\n/g' | sed 's/<[^>]*>//g' | sed '/^$/d' >> ${file}
